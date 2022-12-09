@@ -1,0 +1,875 @@
+,c_Sport,c_Season,c_Event,c_Gender,n_DateSort,c_Person,c_PersonNatio,c_NOC,c_Result,n_ResultSort,c_Class
+39,Swimming,2018,100m Backstroke,Men,20180407,Chris Walker-Hebborn,England,Great Britain,54.23,54230,Elite
+47,Swimming,2018,100m Backstroke,Men,20180406,Luke Greenbank,England,Great Britain,54.37,54370,Elite
+60,Swimming,2018,100m Backstroke,Men,20180806,Nicholas Pyle,Great Britain,Great Britain,54.50,54500,Elite
+62,Swimming,2018,100m Backstroke,Men,20180406,Xavier Castelli,Wales,Great Britain,54.60,54600,Elite
+63,Swimming,2018,100m Backstroke,Men,20180805,Brodie Williams,Great Britain,Great Britain,54.60,54600,Elite
+108,Swimming,2018,100m Backstroke,Men,20180405,Elliot Clogg,England,Great Britain,55.08,55080,Elite
+111,Swimming,2018,100m Backstroke,Men,20180407,Daniel Cross,Great Britain,Great Britain,55.09,55090,Elite
+126,Swimming,2018,100m Backstroke,Men,20180405,Craig McNally,Scotland,Great Britain,55.28,55280,Elite
+134,Swimming,2018,100m Backstroke,Men,20180725,Martyn Walton,England,Great Britain,55.34,55340,Elite
+174,Swimming,2018,100m Backstroke,Men,20180721,Joseph Clark,Great Britain,Great Britain,55.55,55550,Elite
+194,Swimming,2018,100m Backstroke,Men,20180406,Joseph Hulme,Great Britain,Great Britain,55.77,55770,Elite
+227,Swimming,2018,100m Backstroke,Men,20180407,Timothy Shuttleworth,Great Britain,Great Britain,55.96,55960,Elite
+235,Swimming,2018,100m Backstroke,Men,20180728,Francisco Rogerio Santos,Great Britain,Great Britain,56.03,56030,Elite
+241,Swimming,2018,100m Backstroke,Men,20180725,Oliver Fitt,Great Britain,Great Britain,56.07,56070,Elite
+242,Swimming,2018,100m Backstroke,Men,20180725,Joseph Small,Great Britain,Great Britain,56.07,56070,Elite
+278,Swimming,2018,100m Backstroke,Men,20180725,Liam White,Great Britain,Great Britain,56.29,56290,Elite
+296,Swimming,2018,100m Backstroke,Men,20180405,Harry Shalamon,Jersey,Great Britain,56.41,56410,Elite
+297,Swimming,2018,100m Backstroke,Men,20180302,Duncan Scott,Scotland,Great Britain,56.43,56430,Elite
+306,Swimming,2018,100m Backstroke,Men,20180725,Scott Gibson,Great Britain,Great Britain,56.46,56460,Elite
+312,Swimming,2018,100m Backstroke,Men,20180725,James Oxborrow,Great Britain,Great Britain,56.49,56490,Elite
+323,Swimming,2018,100m Backstroke,Men,20180725,James Mcfadzen,Great Britain,Great Britain,56.53,56530,Elite
+355,Swimming,2018,100m Backstroke,Men,20180725,Callum Barrett,Great Britain,Great Britain,56.67,56670,Elite
+375,Swimming,2018,100m Backstroke,Men,20180725,Charlie Brown,Great Britain,Great Britain,56.74,56740,Elite
+409,Swimming,2018,100m Backstroke,Men,20180728,William Kearsey,Great Britain,Great Britain,56.86,56860,Elite
+424,Swimming,2018,100m Backstroke,Men,20180302,Jack Shillinglaw,Great Britain,Great Britain,56.94,56940,Elite
+434,Swimming,2018,100m Backstroke,Men,20180725,Myles Stirk,Great Britain,Great Britain,56.96,56960,Elite
+443,Swimming,2018,100m Backstroke,Men,20180302,Thomas Gilroy,Great Britain,Great Britain,57.00,57000,Elite
+450,Swimming,2018,100m Backstroke,Men,20180302,Perry Gardner,Great Britain,Great Britain,57.02,57020,Elite
+467,Swimming,2018,100m Backstroke,Men,20180725,Jacob Davies,Great Britain,Great Britain,57.11,57110,Elite
+479,Swimming,2018,100m Backstroke,Men,20180302,Kyle Chisholm,Great Britain,Great Britain,57.17,57170,Elite
+499,Swimming,2018,100m Backstroke,Women,20180806,Georgia Davies,Wales,Great Britain,59.12,59120,Elite
+530,Swimming,2018,100m Backstroke,Women,20180809,Kathleen Dawson,Scotland,Great Britain,1:00.17,60170,Elite
+542,Swimming,2018,100m Backstroke,Women,20180406,Elizabeth Simmonds,England,Great Britain,1:00.49,60490,Elite
+559,Swimming,2018,100m Backstroke,Women,20180406,Cassie Wild,Scotland,Great Britain,1:00.93,60930,Elite
+568,Swimming,2018,100m Backstroke,Women,20180406,Jessica Fullalove,England,Great Britain,1:01.04,61040,Elite
+599,Swimming,2018,100m Backstroke,Women,20180725,Lily Boseley,Great Britain,Great Britain,1:01.54,61540,Elite
+600,Swimming,2018,100m Backstroke,Women,20180725,Chloe Golding,England,Great Britain,1:01.56,61560,Elite
+623,Swimming,2018,100m Backstroke,Women,20180725,Alicia Wilson,Great Britain,Great Britain,1:01.73,61730,Elite
+648,Swimming,2018,100m Backstroke,Women,20180725,Lauren Cox,Great Britain,Great Britain,1:01.99,61990,Elite
+681,Swimming,2018,100m Backstroke,Women,20180406,Anna Maine,England,Great Britain,1:02.29,62290,Elite
+690,Swimming,2018,100m Backstroke,Women,20180725,Tegan Drew,Great Britain,Great Britain,1:02.34,62340,Elite
+702,Swimming,2018,100m Backstroke,Women,20180725,Laura Stephens,England,Great Britain,1:02.40,62400,Elite
+736,Swimming,2018,100m Backstroke,Women,20180725,Jennifer King,Great Britain,Great Britain,1:02.61,62610,Elite
+737,Swimming,2018,100m Backstroke,Women,20180406,Charlotte Evans,Great Britain,Great Britain,1:02.61,62610,Elite
+745,Swimming,2018,100m Backstroke,Women,20180303,Kathryn Greenslade,Wales,Great Britain,1:02.64,62640,Elite
+778,Swimming,2018,100m Backstroke,Women,20180112,Medi Harris,Great Britain,Great Britain,1:02.86,62860,Elite
+806,Swimming,2018,100m Backstroke,Women,20180725,Ceara Barber,Great Britain,Great Britain,1:03.00,63000,Elite
+822,Swimming,2018,100m Backstroke,Women,20180329,Emily Grant,Great Britain,Great Britain,1:03.08,63080,Elite
+836,Swimming,2018,100m Backstroke,Women,20180725,Pia Murray,Great Britain,Great Britain,1:03.16,63160,Elite
+837,Swimming,2018,100m Backstroke,Women,20180725,Rachel Anderson,Great Britain,Great Britain,1:03.16,63160,Elite
+846,Swimming,2018,100m Backstroke,Women,20180525,Julia Scrivin,Great Britain,Great Britain,1:03.21,63210,Elite
+899,Swimming,2018,100m Backstroke,Women,20180519,Hannah Burvill,Great Britain,Great Britain,1:03.45,63450,Elite
+908,Swimming,2018,100m Backstroke,Women,20180303,Caitlin Hubbard,Great Britain,Great Britain,1:03.49,63490,Elite
+924,Swimming,2018,100m Backstroke,Women,20180112,Harriet West,Wales,Great Britain,1:03.56,63560,Elite
+939,Swimming,2018,100m Backstroke,Women,20180429,Emma Day,England,Great Britain,1:03.61,63610,Elite
+948,Swimming,2018,100m Backstroke,Women,20180725,Emily Peck,Great Britain,Great Britain,1:03.64,63640,Elite
+966,Swimming,2018,100m Backstroke,Women,20180507,Martha Duley,Great Britain,Great Britain,1:03.75,63750,Elite
+971,Swimming,2018,100m Backstroke,Women,20180407,Karen Reid,Scotland,Great Britain,1:03.76,63760,Elite
+981,Swimming,2018,100m Breaststroke,Men,20180804,Adam Peaty,England,Great Britain,57.10,57100,Elite
+982,Swimming,2018,100m Breaststroke,Men,20180804,James Wilby,England,Great Britain,58.64,58640,Elite
+986,Swimming,2018,100m Breaststroke,Men,20180803,Ross Murdoch,Scotland,Great Britain,59.14,59140,Elite
+1000,Swimming,2018,100m Breaststroke,Men,20180724,Craig Benson,Scotland,Great Britain,59.50,59500,Elite
+1066,Swimming,2018,100m Breaststroke,Men,20180724,Lawrence Palmer,Great Britain,Great Britain,1:00.96,60960,Elite
+1074,Swimming,2018,100m Breaststroke,Men,20180724,David Murphy,Great Britain,Great Britain,1:01.03,61030,Elite
+1089,Swimming,2018,100m Breaststroke,Men,20180407,Andrew Willis,England,Great Britain,1:01.13,61130,Elite
+1098,Swimming,2018,100m Breaststroke,Men,20180724,Gregory Butler,Great Britain,Great Britain,1:01.23,61230,Elite
+1132,Swimming,2018,100m Breaststroke,Men,20180724,Charlie Attwood,England,Great Britain,1:01.58,61580,Elite
+1138,Swimming,2018,100m Breaststroke,Men,20180406,Calum Tait,Great Britain,Great Britain,1:01.62,61620,Elite
+1155,Swimming,2018,100m Breaststroke,Men,20180414,Zak Aitchison,Great Britain,Great Britain,1:01.83,61830,Elite
+1184,Swimming,2018,100m Breaststroke,Men,20180724,Edward Baxter,Great Britain,Great Britain,1:02.03,62030,Elite
+1202,Swimming,2018,100m Breaststroke,Men,20180724,Archie Goodburn,Great Britain,Great Britain,1:02.13,62130,Elite
+1206,Swimming,2018,100m Breaststroke,Men,20180724,James Lewis,Great Britain,Great Britain,1:02.17,62170,Elite
+1246,Swimming,2018,100m Breaststroke,Men,20180724,Oliver Crosby,Great Britain,Great Britain,1:02.37,62370,Elite
+1269,Swimming,2018,100m Breaststroke,Men,20180519,Dominic Polling,Great Britain,Great Britain,1:02.48,62480,Elite
+1286,Swimming,2018,100m Breaststroke,Men,20180724,Adam Chillingworth,Great Britain,Great Britain,1:02.58,62580,Elite
+1391,Swimming,2018,100m Breaststroke,Men,20180731,Kyle Boyek,Great Britain,Great Britain,1:03.15,63150,Elite
+1399,Swimming,2018,100m Breaststroke,Men,20180731,George Hopkins,Great Britain,Great Britain,1:03.19,63190,Elite
+1414,Swimming,2018,100m Breaststroke,Men,20180404,Luke Davies,Great Britain,Great Britain,1:03.26,63260,Elite
+1431,Swimming,2018,100m Breaststroke,Men,20180731,Marcus Gardiner,Great Britain,Great Britain,1:03.34,63340,Elite
+1435,Swimming,2018,100m Breaststroke,Men,20180724,James Mcfadzen,Great Britain,Great Britain,1:03.36,63360,Elite
+1460,Swimming,2018,100m Breaststroke,Men,20180303,Kyle Booth,Great Britain,Great Britain,1:03.47,63470,Elite
+1483,Swimming,2018,100m Breaststroke,Women,20180804,Siobhan-Marie O'Connor,England,Great Britain,1:06.99,66990,Elite
+1510,Swimming,2018,100m Breaststroke,Women,20180409,Chloe Tutton,Wales,Great Britain,1:07.87,67870,Elite
+1516,Swimming,2018,100m Breaststroke,Women,20180729,Katie Matts,Great Britain,Great Britain,1:07.92,67920,Elite
+1533,Swimming,2018,100m Breaststroke,Women,20180409,Sarah Vasey,England,Great Britain,1:08.36,68360,Elite
+1534,Swimming,2018,100m Breaststroke,Women,20180804,Imogen Clark,Great Britain,Great Britain,1:08.36,68360,Elite
+1544,Swimming,2018,100m Breaststroke,Women,20180629,Molly Renshaw,England,Great Britain,1:08.50,68500,Elite
+1548,Swimming,2018,100m Breaststroke,Women,20180729,Tatiana Belonogoff,Great Britain,Great Britain,1:08.63,68630,Elite
+1554,Swimming,2018,100m Breaststroke,Women,20180408,Jocelyn Ulyett,England,Great Britain,1:08.68,68680,Elite
+1555,Swimming,2018,100m Breaststroke,Women,20180729,Annabel Guye-Johnson,Great Britain,Great Britain,1:08.68,68680,Elite
+1559,Swimming,2018,100m Breaststroke,Women,20180707,Katie Robertson,Great Britain,Great Britain,1:08.74,68740,Elite
+1564,Swimming,2018,100m Breaststroke,Women,20180729,Kara Hanlon,Great Britain,Great Britain,1:08.85,68850,Elite
+1579,Swimming,2018,100m Breaststroke,Women,20180302,Corrie Scott,Scotland,Great Britain,1:09.06,69060,Elite
+1626,Swimming,2018,100m Breaststroke,Women,20180408,Laura Kinley,Isle of Man,Great Britain,1:09.71,69710,Elite
+1661,Swimming,2018,100m Breaststroke,Women,20180729,Beth Aitchison,Great Britain,Great Britain,1:10.04,70040,Elite
+1665,Swimming,2018,100m Breaststroke,Women,20180408,Carmella Kitching,Great Britain,Great Britain,1:10.07,70070,Elite
+1672,Swimming,2018,100m Breaststroke,Women,20180428,Georgina Evans,Great Britain,Great Britain,1:10.10,70100,Elite
+1681,Swimming,2018,100m Breaststroke,Women,20180707,Angharad Evans,Great Britain,Great Britain,1:10.16,70160,Elite
+1684,Swimming,2018,100m Breaststroke,Women,20180729,Grace Gilroy,Great Britain,Great Britain,1:10.20,70200,Elite
+1696,Swimming,2018,100m Breaststroke,Women,20180408,Megan Morrison,Great Britain,Great Britain,1:10.28,70280,Elite
+1723,Swimming,2018,100m Breaststroke,Women,20180729,Kayla Van Der Merwe,Great Britain,Great Britain,1:10.50,70500,Elite
+1747,Swimming,2018,100m Breaststroke,Women,20180302,Rebecca Clynes,Great Britain,Great Britain,1:10.70,70700,Elite
+1755,Swimming,2018,100m Breaststroke,Women,20180729,Amy Bell,Great Britain,Great Britain,1:10.72,70720,Elite
+1791,Swimming,2018,100m Breaststroke,Women,20180404,Orla Adams,Great Britain,Great Britain,1:10.94,70940,Elite
+1816,Swimming,2018,100m Breaststroke,Women,20180408,Niamh Robinson,Isle of Man,Great Britain,1:11.10,71100,Elite
+1823,Swimming,2018,100m Breaststroke,Women,20180707,Lily Booker,Great Britain,Great Britain,1:11.11,71110,Elite
+1834,Swimming,2018,100m Breaststroke,Women,20180729,Rachel Taylor,Great Britain,Great Britain,1:11.18,71180,Elite
+1849,Swimming,2018,100m Breaststroke,Women,20180324,Layla Black,Great Britain,Great Britain,1:11.28,71280,Elite
+1867,Swimming,2018,100m Breaststroke,Women,20180408,Bethan Sloan,Wales,Great Britain,1:11.34,71340,Elite
+1874,Swimming,2018,100m Breaststroke,Women,20180729,Cira Fletcher,Great Britain,Great Britain,1:11.37,71370,Elite
+1920,Swimming,2018,100m Breaststroke,Women,20180302,Flora Perkin,Great Britain,Great Britain,1:11.63,71630,Elite
+1926,Swimming,2018,100m Breaststroke,Women,20180609,Hannah Miley,Scotland,Great Britain,1:11.68,71680,Elite
+1929,Swimming,2018,100m Breaststroke,Women,20180731,Morgan Penney,Great Britain,Great Britain,1:11.69,71690,Elite
+1952,Swimming,2018,100m Breaststroke,Women,20180112,Cerys Coley,Great Britain,Great Britain,1:11.80,71800,Elite
+1967,Swimming,2018,100m Butterfly,Men,20180409,James Guy,England,Great Britain,51.31,51310,Elite
+2068,Swimming,2018,100m Butterfly,Men,20180727,Cameron Brooks-Clarke,Great Britain,Great Britain,52.89,52890,Elite
+2080,Swimming,2018,100m Butterfly,Men,20180808,Jacob Peters,England,Great Britain,53.02,53020,Elite
+2084,Swimming,2018,100m Butterfly,Men,20180727,Sam Horrocks,Great Britain,Great Britain,53.07,53070,Elite
+2101,Swimming,2018,100m Butterfly,Men,20180727,Matthew Domville,Great Britain,Great Britain,53.19,53190,Elite
+2120,Swimming,2018,100m Butterfly,Men,20180408,Sean Campsie,Scotland,Great Britain,53.31,53310,Elite
+2121,Swimming,2018,100m Butterfly,Men,20180408,Calum Jarvis,Wales,Great Britain,53.33,53330,Elite
+2212,Swimming,2018,100m Butterfly,Men,20180609,Duncan Scott,Scotland,Great Britain,53.77,53770,Elite
+2227,Swimming,2018,100m Butterfly,Men,20180707,Lewis Fraser,Great Britain,Great Britain,53.85,53850,Elite
+2297,Swimming,2018,100m Butterfly,Men,20180406,Kevin Wallbank,Great Britain,Great Britain,54.17,54170,Elite
+2324,Swimming,2018,100m Butterfly,Men,20180629,Max Litchfield,England,Great Britain,54.31,54310,Elite
+2335,Swimming,2018,100m Butterfly,Men,20180720,Scott Mclay,Scotland,Great Britain,54.36,54360,Elite
+2346,Swimming,2018,100m Butterfly,Men,20180720,Joseph Clark,Great Britain,Great Britain,54.38,54380,Elite
+2373,Swimming,2018,100m Butterfly,Men,20180415,Martyn Walton,England,Great Britain,54.48,54480,Elite
+2378,Swimming,2018,100m Butterfly,Men,20180727,Archie Goodburn,Great Britain,Great Britain,54.52,54520,Elite
+2379,Swimming,2018,100m Butterfly,Men,20180727,Dominic Wooldridge,Great Britain,Great Britain,54.52,54520,Elite
+2392,Swimming,2018,100m Butterfly,Men,20180727,Oliver Maltby,Great Britain,Great Britain,54.55,54550,Elite
+2401,Swimming,2018,100m Butterfly,Men,20180727,Sam Dailley,Great Britain,Great Britain,54.57,54570,Elite
+2414,Swimming,2018,100m Butterfly,Men,20180727,Ben Hooper,Great Britain,Great Britain,54.61,54610,Elite
+2429,Swimming,2018,100m Butterfly,Men,20180727,Jacob Jackson,Great Britain,Great Britain,54.65,54650,Elite
+2464,Swimming,2018,100m Butterfly,Women,20180406,Charlotte Atkinson,Isle of Man,Great Britain,57.88,57880,Elite
+2470,Swimming,2018,100m Butterfly,Women,20180406,Alys Thomas,Wales,Great Britain,58.06,58060,Elite
+2496,Swimming,2018,100m Butterfly,Women,20180301,Harriet Jones,Wales,Great Britain,58.85,58850,Elite
+2499,Swimming,2018,100m Butterfly,Women,20180301,Tain Bruce,Great Britain,Great Britain,58.92,58920,Elite
+2513,Swimming,2018,100m Butterfly,Women,20180706,Emily Large,England,Great Britain,59.16,59160,Elite
+2530,Swimming,2018,100m Butterfly,Women,20180729,Laura Stephens,England,Great Britain,59.36,59360,Elite
+2537,Swimming,2018,100m Butterfly,Women,20180301,Harriet West,Wales,Great Britain,59.43,59430,Elite
+2551,Swimming,2018,100m Butterfly,Women,20180405,Keanna Macinnes,Scotland,Great Britain,59.55,59550,Elite
+2555,Swimming,2018,100m Butterfly,Women,20180301,Siobhan-Marie O'Connor,England,Great Britain,59.59,59590,Elite
+2655,Swimming,2018,100m Butterfly,Women,20180729,Isobel Grant,England,Great Britain,1:00.49,60490,Elite
+2665,Swimming,2018,100m Butterfly,Women,20180301,Ciara Schlosshan,Great Britain,Great Britain,1:00.54,60540,Elite
+2687,Swimming,2018,100m Butterfly,Women,20180204,Holly Hibbott,England,Great Britain,1:00.67,60670,Elite
+2713,Swimming,2018,100m Butterfly,Women,20180729,Maisie Elliott,Great Britain,Great Britain,1:00.83,60830,Elite
+2725,Swimming,2018,100m Butterfly,Women,20180729,Betsy Wizard,Great Britain,Great Britain,1:00.89,60890,Elite
+2731,Swimming,2018,100m Butterfly,Women,20180729,Sophie Freeman,Great Britain,Great Britain,1:00.92,60920,Elite
+2792,Swimming,2018,100m Butterfly,Women,20180729,Tori Sopp,Great Britain,Great Britain,1:01.19,61190,Elite
+2798,Swimming,2018,100m Butterfly,Women,20180301,Isabel Spinley,Great Britain,Great Britain,1:01.21,61210,Elite
+2801,Swimming,2018,100m Butterfly,Women,20180630,Eleanor Faulkner,England,Great Britain,1:01.22,61220,Elite
+2809,Swimming,2018,100m Butterfly,Women,20181130,Anna Hopkin,England,Great Britain,1:01.27,61270,Elite
+2841,Swimming,2018,100m Butterfly,Women,20180729,Caitlin Hubbard,Great Britain,Great Britain,1:01.44,61440,Elite
+2865,Swimming,2018,100m Butterfly,Women,20180522,Julia Scrivin,Great Britain,Great Britain,1:01.53,61530,Elite
+2877,Swimming,2018,100m Butterfly,Women,20180729,Yasmin Perry,Great Britain,Great Britain,1:01.57,61570,Elite
+2896,Swimming,2018,100m Butterfly,Women,20180729,Jasmine Mccrea,Great Britain,Great Britain,1:01.64,61640,Elite
+2897,Swimming,2018,100m Butterfly,Women,20180729,Kate Mills,Great Britain,Great Britain,1:01.66,61660,Elite
+2898,Swimming,2018,100m Butterfly,Women,20180729,Pia Murray,Great Britain,Great Britain,1:01.66,61660,Elite
+2944,Swimming,2018,100m Freestyle,Men,20180408,Duncan Scott,Scotland,Great Britain,48.02,48020,Elite
+3092,Swimming,2018,100m Freestyle,Men,20180407,Calum Jarvis,Wales,Great Britain,49.65,49650,Elite
+3107,Swimming,2018,100m Freestyle,Men,20180407,Jack Thorpe,Great Britain,Great Britain,49.75,49750,Elite
+3111,Swimming,2018,100m Freestyle,Men,20180407,David Cumberlidge,England,Great Britain,49.77,49770,Elite
+3143,Swimming,2018,100m Freestyle,Men,20180719,Scott Mclay,Scotland,Great Britain,49.88,49880,Elite
+3145,Swimming,2018,100m Freestyle,Men,20180301,Lewis Burras,Great Britain,Great Britain,49.89,49890,Elite
+3171,Swimming,2018,100m Freestyle,Men,20180726,Harry Constantine,Great Britain,Great Britain,49.99,49990,Elite
+3173,Swimming,2018,100m Freestyle,Men,20180804,Craig McLean,Scotland,Great Britain,50.00,50000,Elite
+3182,Swimming,2018,100m Freestyle,Men,20180407,Kieran McGuckin,Scotland,Great Britain,50.02,50020,Elite
+3185,Swimming,2018,100m Freestyle,Men,20180407,Samuel Irvine,Great Britain,Great Britain,50.03,50030,Elite
+3186,Swimming,2018,100m Freestyle,Men,20180128,Benjamin Proud,England,Great Britain,50.03,50030,Elite
+3253,Swimming,2018,100m Freestyle,Men,20180407,Alex Bowen,Great Britain,Great Britain,50.23,50230,Elite
+3264,Swimming,2018,100m Freestyle,Men,20180726,Alex Wray,Great Britain,Great Britain,50.26,50260,Elite
+3271,Swimming,2018,100m Freestyle,Men,20180401,Dan Jones,Great Britain,Great Britain,50.28,50280,Elite
+3324,Swimming,2018,100m Freestyle,Men,20180726,Martyn Walton,England,Great Britain,50.47,50470,Elite
+3346,Swimming,2018,100m Freestyle,Men,20180726,Joe Page,United Arab Emirates,Great Britain,50.52,50520,Elite
+3356,Swimming,2018,100m Freestyle,Men,20180301,Stephen Milne,Scotland,Great Britain,50.55,50550,Elite
+3358,Swimming,2018,100m Freestyle,Men,20180407,Elliot Clogg,England,Great Britain,50.56,50560,Elite
+3395,Swimming,2018,100m Freestyle,Men,20180407,Timothy Shuttleworth,Great Britain,Great Britain,50.66,50660,Elite
+3402,Swimming,2018,100m Freestyle,Men,20180726,Lewis Clough,Great Britain,Great Britain,50.68,50680,Elite
+3440,Swimming,2018,100m Freestyle,Women,20180808,Freya Anderson,England,Great Britain,53.61,53610,Elite
+3472,Swimming,2018,100m Freestyle,Women,20181201,Anna Hopkin,England,Great Britain,54.53,54530,Elite
+3542,Swimming,2018,100m Freestyle,Women,20180408,Lucy Hope,Great Britain,Great Britain,55.43,55430,Elite
+3572,Swimming,2018,100m Freestyle,Women,20180727,Emily Crane,Great Britain,Great Britain,55.60,55600,Elite
+3573,Swimming,2018,100m Freestyle,Women,20180406,Katie Stark,Great Britain,Great Britain,55.60,55600,Elite
+3584,Swimming,2018,100m Freestyle,Women,20180727,Elizabeth Harris,Great Britain,Great Britain,55.65,55650,Elite
+3608,Swimming,2018,100m Freestyle,Women,20180304,Eleanor Faulkner,England,Great Britain,55.82,55820,Elite
+3611,Swimming,2018,100m Freestyle,Women,20180408,Jessica Jackson,England,Great Britain,55.84,55840,Elite
+3632,Swimming,2018,100m Freestyle,Women,20180406,Tain Bruce,Great Britain,Great Britain,55.96,55960,Elite
+3635,Swimming,2018,100m Freestyle,Women,20180630,Siobhan-Marie O'Connor,England,Great Britain,55.97,55970,Elite
+3651,Swimming,2018,100m Freestyle,Women,20180406,Rachel-Louise Masson,Scotland,Great Britain,56.03,56030,Elite
+3669,Swimming,2018,100m Freestyle,Women,20180727,Hannah Burvill,Great Britain,Great Britain,56.08,56080,Elite
+3739,Swimming,2018,100m Freestyle,Women,20180727,Beth Aitchison,Great Britain,Great Britain,56.37,56370,Elite
+3740,Swimming,2018,100m Freestyle,Women,20180727,Amy Grant,Great Britain,Great Britain,56.37,56370,Elite
+3762,Swimming,2018,100m Freestyle,Women,20180408,Emily Barclay,Great Britain,Great Britain,56.45,56450,Elite
+3823,Swimming,2018,100m Freestyle,Women,20180727,Jemima Hall,Great Britain,Great Britain,56.64,56640,Elite
+3830,Swimming,2018,100m Freestyle,Women,20180304,Laura Mcnab,Great Britain,Great Britain,56.66,56660,Elite
+3840,Swimming,2018,100m Freestyle,Women,20180727,Anna Maine,England,Great Britain,56.71,56710,Elite
+3843,Swimming,2018,100m Freestyle,Women,20180727,Sophie Smith,Great Britain,Great Britain,56.71,56710,Elite
+3863,Swimming,2018,100m Freestyle,Women,20180727,Kate Clifton,Great Britain,Great Britain,56.77,56770,Elite
+3882,Swimming,2018,100m Freestyle,Women,20180304,Kathryn Greenslade,Wales,Great Britain,56.83,56830,Elite
+3902,Swimming,2018,100m Freestyle,Women,20180727,Tamryn Van Selm,Great Britain,Great Britain,56.88,56880,Elite
+3922,Swimming,2018,1500m Freestyle,Men,20180410,Daniel Jervis,Wales,Great Britain,14:48.67,888670,Elite
+3946,Swimming,2018,1500m Freestyle,Men,20180407,Tom Derbyshire,Great Britain,Great Britain,15:07.07,907070,Elite
+4012,Swimming,2018,1500m Freestyle,Men,20180705,Nathan Hughes,Great Britain,Great Britain,15:24.81,924810,Elite
+4143,Swimming,2018,1500m Freestyle,Men,20180726,Kieran Bird,Great Britain,Great Britain,15:38.52,938520,Elite
+4146,Swimming,2018,1500m Freestyle,Men,20180726,Samuel Budd,Great Britain,Great Britain,15:38.76,938760,Elite
+4154,Swimming,2018,1500m Freestyle,Men,20180726,William Bell,Great Britain,Great Britain,15:39.59,939590,Elite
+4177,Swimming,2018,1500m Freestyle,Men,20181201,Gordon Mason,Great Britain,Great Britain,15:42.76,942760,Elite
+4183,Swimming,2018,1500m Freestyle,Men,20180301,Jakob Goodman,Great Britain,Great Britain,15:43.25,943250,Elite
+4185,Swimming,2018,1500m Freestyle,Men,20180726,Jamie Scholes,Great Britain,Great Britain,15:43.44,943440,Elite
+4187,Swimming,2018,1500m Freestyle,Men,20180810,Giuseppe Bogani,Great Britain,Great Britain,15:43.94,943940,Elite
+4190,Swimming,2018,1500m Freestyle,Men,20180726,Samuel Osborne,Great Britain,Great Britain,15:44.19,944190,Elite
+4205,Swimming,2018,1500m Freestyle,Men,20180406,William Ryley,Great Britain,Great Britain,15:45.45,945450,Elite
+4219,Swimming,2018,1500m Freestyle,Men,20180726,Luke Turley,Great Britain,Great Britain,15:46.72,946720,Elite
+4306,Swimming,2018,1500m Freestyle,Men,20180726,Hector Pardoe,Great Britain,Great Britain,15:54.29,954290,Elite
+4336,Swimming,2018,1500m Freestyle,Men,20180301,Ryan Reader,Great Britain,Great Britain,15:56.94,956940,Elite
+4413,Swimming,2018,1500m Freestyle,Men,20180726,Adam Wilson,Great Britain,Great Britain,16:01.65,961650,Elite
+4481,Swimming,2018,1500m Freestyle,Women,20180405,Alice Dearing,England,Great Britain,16:37.62,997620,Elite
+4491,Swimming,2018,1500m Freestyle,Women,20180727,Polly Holden,Great Britain,Great Britain,16:39.72,999720,Elite
+4558,Swimming,2018,1500m Freestyle,Women,20180727,Maisie Mccartney,Great Britain,Great Britain,16:52.34,1012340,Elite
+4582,Swimming,2018,1500m Freestyle,Women,20180405,Emily Clarke,Great Britain,Great Britain,16:55.82,1015820,Elite
+4605,Swimming,2018,1500m Freestyle,Women,20180727,Alisha Hawkins,Great Britain,Great Britain,16:59.52,1019520,Elite
+4607,Swimming,2018,1500m Freestyle,Women,20180727,Leah Crisp,Great Britain,Great Britain,16:59.67,1019670,Elite
+4631,Swimming,2018,1500m Freestyle,Women,20180727,Nicole Ryan,Great Britain,Great Britain,17:02.75,1022750,Elite
+4655,Swimming,2018,1500m Freestyle,Women,20180706,Georgia Darwent,Great Britain,Great Britain,17:05.36,1025360,Elite
+4668,Swimming,2018,1500m Freestyle,Women,20180423,Philippa O'Brien,Great Britain,Great Britain,17:07.63,1027630,Elite
+4671,Swimming,2018,1500m Freestyle,Women,20180727,Michaella Glenister,Great Britain,Great Britain,17:07.92,1027920,Elite
+4672,Swimming,2018,1500m Freestyle,Women,20180727,Emilia Sansome,Great Britain,Great Britain,17:07.94,1027940,Elite
+4673,Swimming,2018,1500m Freestyle,Women,20180727,Fleur Lewis,Great Britain,Great Britain,17:08.13,1028130,Elite
+4687,Swimming,2018,1500m Freestyle,Women,20180727,Phoebe Griffiths,Great Britain,Great Britain,17:11.58,1031580,Elite
+4688,Swimming,2018,1500m Freestyle,Women,20180804,Elizabeth Boeckman,Great Britain,Great Britain,17:11.59,1031590,Elite
+4714,Swimming,2018,1500m Freestyle,Women,20180328,Iona Macleod,Great Britain,Great Britain,17:14.89,1034890,Elite
+4839,Swimming,2018,200m Backstroke,Men,20180409,Luke Greenbank,England,Great Britain,1:57.43,117430,Elite
+4854,Swimming,2018,200m Backstroke,Men,20180409,Craig McNally,Scotland,Great Britain,1:58.32,118320,Elite
+4862,Swimming,2018,200m Backstroke,Men,20180807,Brodie Williams,Great Britain,Great Britain,1:58.62,118620,Elite
+4876,Swimming,2018,200m Backstroke,Men,20180409,Xavier Castelli,Wales,Great Britain,1:59.27,119270,Elite
+4901,Swimming,2018,200m Backstroke,Men,20180325,Francisco Rogerio Santos,Great Britain,Great Britain,2:00.10,120100,Elite
+4909,Swimming,2018,200m Backstroke,Men,20180405,Daniel Cross,Great Britain,Great Britain,2:00.23,120230,Elite
+4925,Swimming,2018,200m Backstroke,Men,20180729,Callum Barrett,Great Britain,Great Britain,2:00.72,120720,Elite
+4959,Swimming,2018,200m Backstroke,Men,20180405,James Mcfadzen,Great Britain,Great Britain,2:01.25,121250,Elite
+4981,Swimming,2018,200m Backstroke,Men,20180729,Charlie Hutchison,Great Britain,Great Britain,2:01.63,121630,Elite
+4987,Swimming,2018,200m Backstroke,Men,20180408,Joseph Hulme,Great Britain,Great Britain,2:01.67,121670,Elite
+4994,Swimming,2018,200m Backstroke,Men,20180701,Elliot Clogg,England,Great Britain,2:01.84,121840,Elite
+5022,Swimming,2018,200m Backstroke,Men,20180111,Nicholas Pyle,Great Britain,Great Britain,2:02.17,122170,Elite
+5049,Swimming,2018,200m Backstroke,Men,20180729,Charlie Brown,Great Britain,Great Britain,2:02.55,122550,Elite
+5054,Swimming,2018,200m Backstroke,Men,20180729,Daniel Hall,Great Britain,Great Britain,2:02.60,122600,Elite
+5077,Swimming,2018,200m Backstroke,Men,20180729,Jacob Greenow,Great Britain,Great Britain,2:03.00,123000,Elite
+5091,Swimming,2018,200m Backstroke,Men,20180701,Joseph Small,Great Britain,Great Britain,2:03.10,123100,Elite
+5128,Swimming,2018,200m Backstroke,Men,20180729,Jamie Scholes,Great Britain,Great Britain,2:03.62,123620,Elite
+5134,Swimming,2018,200m Backstroke,Men,20180303,Ioan Evans,Great Britain,Great Britain,2:03.68,123680,Elite
+5156,Swimming,2018,200m Backstroke,Men,20180526,Max Litchfield,England,Great Britain,2:03.95,123950,Elite
+5166,Swimming,2018,200m Backstroke,Men,20180729,William Ryley,Great Britain,Great Britain,2:04.06,124060,Elite
+5201,Swimming,2018,200m Backstroke,Men,20180303,Jack Shillinglaw,Great Britain,Great Britain,2:04.44,124440,Elite
+5202,Swimming,2018,200m Backstroke,Men,20180409,Stephen Milne,Scotland,Great Britain,2:04.45,124450,Elite
+5205,Swimming,2018,200m Backstroke,Men,20180506,Matthew George,Great Britain,Great Britain,2:04.46,124460,Elite
+5219,Swimming,2018,200m Backstroke,Men,20180729,Oliver Fairman,Great Britain,Great Britain,2:04.56,124560,Elite
+5245,Swimming,2018,200m Backstroke,Men,20180506,Marcus Dey,Great Britain,Great Britain,2:04.84,124840,Elite
+5265,Swimming,2018,200m Backstroke,Men,20180729,Lewis Gilchrist,Great Britain,Great Britain,2:05.00,125000,Elite
+5290,Swimming,2018,200m Backstroke,Men,20180303,Michael Rees,Great Britain,Great Britain,2:05.22,125220,Elite
+5356,Swimming,2018,200m Backstroke,Women,20180302,Elizabeth Simmonds,England,Great Britain,2:10.26,130260,Elite
+5372,Swimming,2018,200m Backstroke,Women,20180629,Jessica Fullalove,England,Great Britain,2:11.16,131160,Elite
+5376,Swimming,2018,200m Backstroke,Women,20180727,Charlotte Evans,Great Britain,Great Britain,2:11.39,131390,Elite
+5377,Swimming,2018,200m Backstroke,Women,20180727,Chloe Golding,England,Great Britain,2:11.40,131400,Elite
+5383,Swimming,2018,200m Backstroke,Women,20180302,Kathryn Greenslade,Wales,Great Britain,2:11.67,131670,Elite
+5399,Swimming,2018,200m Backstroke,Women,20180727,Sophie Hobbah,Great Britain,Great Britain,2:12.40,132400,Elite
+5400,Swimming,2018,200m Backstroke,Women,20180727,Jennifer King,Great Britain,Great Britain,2:12.49,132490,Elite
+5441,Swimming,2018,200m Backstroke,Women,20180727,Laura Stephens,England,Great Britain,2:13.43,133430,Elite
+5442,Swimming,2018,200m Backstroke,Women,20180727,Rachel Anderson,Great Britain,Great Britain,2:13.44,133440,Elite
+5462,Swimming,2018,200m Backstroke,Women,20180302,Alexandra Waller,Great Britain,Great Britain,2:13.91,133910,Elite
+5524,Swimming,2018,200m Backstroke,Women,20180302,Lily Boseley,Great Britain,Great Britain,2:14.91,134910,Elite
+5528,Swimming,2018,200m Backstroke,Women,20180727,Daisy Platts,Great Britain,Great Britain,2:14.95,134950,Elite
+5563,Swimming,2018,200m Backstroke,Women,20180727,Pia Murray,Great Britain,Great Britain,2:15.52,135520,Elite
+5571,Swimming,2018,200m Backstroke,Women,20180727,Sophia Wilson,Great Britain,Great Britain,2:15.69,135690,Elite
+5573,Swimming,2018,200m Backstroke,Women,20180727,Katie Shanahan,Great Britain,Great Britain,2:15.74,135740,Elite
+5596,Swimming,2018,200m Backstroke,Women,20180302,Anna Maine,England,Great Britain,2:15.97,135970,Elite
+5597,Swimming,2018,200m Backstroke,Women,20180727,Daisy Anderson,Great Britain,Great Britain,2:15.99,135990,Elite
+5609,Swimming,2018,200m Backstroke,Women,20180506,Caitlin Hubbard,Great Britain,Great Britain,2:16.19,136190,Elite
+5636,Swimming,2018,200m Backstroke,Women,20180727,Ellis Shiels,Great Britain,Great Britain,2:16.51,136510,Elite
+5643,Swimming,2018,200m Backstroke,Women,20180727,Georgia Darwent,Great Britain,Great Britain,2:16.60,136600,Elite
+5650,Swimming,2018,200m Backstroke,Women,20180727,Ellie Turner,Great Britain,Great Britain,2:16.65,136650,Elite
+5667,Swimming,2018,200m Backstroke,Women,20180408,Gemma Atherley,Jersey,Great Britain,2:16.89,136890,Elite
+5675,Swimming,2018,200m Backstroke,Women,20180527,Julia Scrivin,Great Britain,Great Britain,2:16.99,136990,Elite
+5684,Swimming,2018,200m Backstroke,Women,20180527,Holly Hudghton,Great Britain,Great Britain,2:17.13,137130,Elite
+5685,Swimming,2018,200m Backstroke,Women,20180727,Jessica McDonough,Great Britain,Great Britain,2:17.15,137150,Elite
+5712,Swimming,2018,200m Backstroke,Women,20180330,Medi Harris,Great Britain,Great Britain,2:17.52,137520,Elite
+5720,Swimming,2018,200m Backstroke,Women,20180302,Isabel Jones,Great Britain,Great Britain,2:17.58,137580,Elite
+5725,Swimming,2018,200m Backstroke,Women,20180727,Emily Osborne,Great Britain,Great Britain,2:17.62,137620,Elite
+5727,Swimming,2018,200m Backstroke,Women,20180527,Candice Hall,Great Britain,Great Britain,2:17.64,137640,Elite
+5746,Swimming,2018,200m Backstroke,Women,20180520,Chloe Hannam,Great Britain,Great Britain,2:17.81,137810,Elite
+5754,Swimming,2018,200m Backstroke,Women,20180727,Tegan Drew,Great Britain,Great Britain,2:17.89,137890,Elite
+5755,Swimming,2018,200m Backstroke,Women,20180701,Olivia Butler,Great Britain,Great Britain,2:17.91,137910,Elite
+5780,Swimming,2018,200m Backstroke,Women,20180727,Jasmine Iley,Great Britain,Great Britain,2:18.11,138110,Elite
+5782,Swimming,2018,200m Backstroke,Women,20180804,Emily Peck,Great Britain,Great Britain,2:18.15,138150,Elite
+5785,Swimming,2018,200m Backstroke,Women,20180325,Emma Day,England,Great Britain,2:18.16,138160,Elite
+5790,Swimming,2018,200m Backstroke,Women,20180415,Emily Grant,Great Britain,Great Britain,2:18.21,138210,Elite
+5800,Swimming,2018,200m Backstroke,Women,20180330,Rebecca Sutton,Great Britain,Great Britain,2:18.32,138320,Elite
+5802,Swimming,2018,200m Backstroke,Women,20180727,Caitlin Ebbage,Great Britain,Great Britain,2:18.35,138350,Elite
+5808,Swimming,2018,200m Breaststroke,Men,20180405,James Wilby,England,Great Britain,2:08.05,128050,Elite
+5812,Swimming,2018,200m Breaststroke,Men,20180405,Ross Murdoch,Scotland,Great Britain,2:08.32,128320,Elite
+5824,Swimming,2018,200m Breaststroke,Men,20180405,Andrew Willis,England,Great Britain,2:09.31,129310,Elite
+5833,Swimming,2018,200m Breaststroke,Men,20180405,Craig Benson,Scotland,Great Britain,2:10.09,130090,Elite
+5846,Swimming,2018,200m Breaststroke,Men,20180405,Calum Tait,Great Britain,Great Britain,2:10.83,130830,Elite
+5953,Swimming,2018,200m Breaststroke,Men,20180727,Tobermory Mackay-Champion,Great Britain,Great Britain,2:13.99,133990,Elite
+5954,Swimming,2018,200m Breaststroke,Men,20180727,Adam Chillingworth,Great Britain,Great Britain,2:14.01,134010,Elite
+6014,Swimming,2018,200m Breaststroke,Men,20180727,Gregory Butler,Great Britain,Great Britain,2:15.20,135200,Elite
+6030,Swimming,2018,200m Breaststroke,Men,20180727,James Lewis,Great Britain,Great Britain,2:15.51,135510,Elite
+6032,Swimming,2018,200m Breaststroke,Men,20180727,Edward Baxter,Great Britain,Great Britain,2:15.52,135520,Elite
+6054,Swimming,2018,200m Breaststroke,Men,20180302,David Murphy,Great Britain,Great Britain,2:15.88,135880,Elite
+6076,Swimming,2018,200m Breaststroke,Men,20180406,Jacob Greenow,Great Britain,Great Britain,2:16.25,136250,Elite
+6078,Swimming,2018,200m Breaststroke,Men,20180413,George Clough,Great Britain,Great Britain,2:16.26,136260,Elite
+6099,Swimming,2018,200m Breaststroke,Men,20180727,Kyle Booth,Great Britain,Great Britain,2:16.53,136530,Elite
+6105,Swimming,2018,200m Breaststroke,Men,20180727,Nathan Hughes,Great Britain,Great Britain,2:16.54,136540,Elite
+6164,Swimming,2018,200m Breaststroke,Men,20180405,Luke Davies,Great Britain,Great Britain,2:17.24,137240,Elite
+6174,Swimming,2018,200m Breaststroke,Men,20180302,Thomas Dean,Great Britain,Great Britain,2:17.43,137430,Elite
+6211,Swimming,2018,200m Breaststroke,Men,20180302,Callum Smart,Great Britain,Great Britain,2:17.81,137810,Elite
+6212,Swimming,2018,200m Breaststroke,Men,20180127,Joel O'Halleron,Great Britain,Great Britain,2:17.82,137820,Elite
+6263,Swimming,2018,200m Breaststroke,Men,20180727,Lawrence Palmer,Great Britain,Great Britain,2:18.37,138370,Elite
+6277,Swimming,2018,200m Breaststroke,Men,20180727,Connor Bryan,Great Britain,Great Britain,2:18.45,138450,Elite
+6304,Swimming,2018,200m Breaststroke,Women,20180407,Molly Renshaw,England,Great Britain,2:23.28,143280,Elite
+6308,Swimming,2018,200m Breaststroke,Women,20180407,Chloe Tutton,Wales,Great Britain,2:23.42,143420,Elite
+6323,Swimming,2018,200m Breaststroke,Women,20180725,Katie Matts,Great Britain,Great Britain,2:25.06,145060,Elite
+6329,Swimming,2018,200m Breaststroke,Women,20180725,Georgia Coates,Great Britain,Great Britain,2:25.62,145620,Elite
+6347,Swimming,2018,200m Breaststroke,Women,20180127,Jocelyn Ulyett,England,Great Britain,2:26.57,146570,Elite
+6369,Swimming,2018,200m Breaststroke,Women,20180613,Siobhan-Marie O'Connor,England,Great Britain,2:27.72,147720,Elite
+6375,Swimming,2018,200m Breaststroke,Women,20180407,Hannah Miley,Scotland,Great Britain,2:28.01,148010,Elite
+6401,Swimming,2018,200m Breaststroke,Women,20180725,Kara Hanlon,Great Britain,Great Britain,2:28.86,148860,Elite
+6409,Swimming,2018,200m Breaststroke,Women,20180705,Lily Booker,Great Britain,Great Britain,2:29.02,149020,Elite
+6423,Swimming,2018,200m Breaststroke,Women,20180405,Orla Adams,Great Britain,Great Britain,2:29.43,149430,Elite
+6437,Swimming,2018,200m Breaststroke,Women,20180303,Abbie Wood,England,Great Britain,2:29.74,149740,Elite
+6438,Swimming,2018,200m Breaststroke,Women,20180407,Megan Morrison,Great Britain,Great Britain,2:29.76,149760,Elite
+6443,Swimming,2018,200m Breaststroke,Women,20180725,Amy Bell,Great Britain,Great Britain,2:29.88,149880,Elite
+6445,Swimming,2018,200m Breaststroke,Women,20180407,Bethan Sloan,Wales,Great Britain,2:29.94,149940,Elite
+6468,Swimming,2018,200m Breaststroke,Women,20180303,Corrie Scott,Scotland,Great Britain,2:30.40,150400,Elite
+6493,Swimming,2018,200m Breaststroke,Women,20180303,Aimee Willmott,England,Great Britain,2:30.95,150950,Elite
+6498,Swimming,2018,200m Breaststroke,Women,20180725,Annabel Guye-Johnson,Great Britain,Great Britain,2:31.07,151070,Elite
+6521,Swimming,2018,200m Breaststroke,Women,20180725,Katie Robertson,Great Britain,Great Britain,2:31.59,151590,Elite
+6549,Swimming,2018,200m Breaststroke,Women,20180525,Carmella Kitching,Great Britain,Great Britain,2:32.10,152100,Elite
+6564,Swimming,2018,200m Breaststroke,Women,20180725,Kayla Van Der Merwe,Great Britain,Great Britain,2:32.24,152240,Elite
+6566,Swimming,2018,200m Breaststroke,Women,20180705,Charlotte Rigg,Great Britain,Great Britain,2:32.26,152260,Elite
+6577,Swimming,2018,200m Breaststroke,Women,20180725,Rosanna Arnold,Great Britain,Great Britain,2:32.43,152430,Elite
+6585,Swimming,2018,200m Breaststroke,Women,20180725,Emma Day,England,Great Britain,2:32.62,152620,Elite
+6593,Swimming,2018,200m Breaststroke,Women,20180407,Amelia Monaghan,Great Britain,Great Britain,2:32.66,152660,Elite
+6598,Swimming,2018,200m Breaststroke,Women,20180725,Layla Black,Great Britain,Great Britain,2:32.71,152710,Elite
+6610,Swimming,2018,200m Breaststroke,Women,20180407,Niamh Robinson,Isle of Man,Great Britain,2:32.94,152940,Elite
+6620,Swimming,2018,200m Breaststroke,Women,20180725,Yvonne Brown,Great Britain,Great Britain,2:33.17,153170,Elite
+6640,Swimming,2018,200m Breaststroke,Women,20180725,Rachel Taylor,Great Britain,Great Britain,2:33.41,153410,Elite
+6644,Swimming,2018,200m Breaststroke,Women,20180303,Tatiana Belonogoff,Great Britain,Great Britain,2:33.48,153480,Elite
+6651,Swimming,2018,200m Breaststroke,Women,20180526,Cerys Coley,Great Britain,Great Britain,2:33.53,153530,Elite
+6665,Swimming,2018,200m Breaststroke,Women,20180725,Cira Fletcher,Great Britain,Great Britain,2:33.67,153670,Elite
+6669,Swimming,2018,200m Breaststroke,Women,20180725,Maia Hall,Great Britain,Great Britain,2:33.74,153740,Elite
+6673,Swimming,2018,200m Breaststroke,Women,20180725,Grace Gilroy,Great Britain,Great Britain,2:33.77,153770,Elite
+6744,Swimming,2018,200m Breaststroke,Women,20180726,Julia Knox,Ireland,Great Britain,2:34.91,154910,Elite
+6747,Swimming,2018,200m Breaststroke,Women,20180303,Hannah Sheehan,Great Britain,Great Britain,2:34.99,154990,Elite
+6764,Swimming,2018,200m Breaststroke,Women,20180526,Emily Wood,Great Britain,Great Britain,2:35.21,155210,Elite
+6776,Swimming,2018,200m Breaststroke,Women,20180725,Kayleigh Parker,Great Britain,Great Britain,2:35.39,155390,Elite
+6813,Swimming,2018,200m Butterfly,Men,20180804,James Guy,England,Great Britain,1:56.13,116130,Elite
+6827,Swimming,2018,200m Butterfly,Men,20180407,Duncan Scott,Scotland,Great Britain,1:56.60,116600,Elite
+6861,Swimming,2018,200m Butterfly,Men,20180407,Jacob Peters,England,Great Britain,1:57.75,117750,Elite
+6915,Swimming,2018,200m Butterfly,Men,20180725,Thomas Beeley,Great Britain,Great Britain,1:59.09,119090,Elite
+6948,Swimming,2018,200m Butterfly,Men,20180407,Joe Litchfield,England,Great Britain,1:59.69,119690,Elite
+7000,Swimming,2018,200m Butterfly,Men,20180725,Archie Goodburn,Great Britain,Great Britain,2:00.46,120460,Elite
+7003,Swimming,2018,200m Butterfly,Men,20180301,Thomas Paine,Great Britain,Great Britain,2:00.47,120470,Elite
+7009,Swimming,2018,200m Butterfly,Men,20180609,Mason Wilby,Great Britain,Great Britain,2:00.63,120630,Elite
+7036,Swimming,2018,200m Butterfly,Men,20180603,Mark Szaranek,Great Britain,Great Britain,2:01.04,121040,Elite
+7063,Swimming,2018,200m Butterfly,Men,20180725,Ben Hooper,Great Britain,Great Britain,2:01.37,121370,Elite
+7067,Swimming,2018,200m Butterfly,Men,20180725,Matthew Domville,Great Britain,Great Britain,2:01.40,121400,Elite
+7070,Swimming,2018,200m Butterfly,Men,20180725,Ryan Brown,Great Britain,Great Britain,2:01.44,121440,Elite
+7111,Swimming,2018,200m Butterfly,Men,20180725,Jacob Jackson,Great Britain,Great Britain,2:01.87,121870,Elite
+7115,Swimming,2018,200m Butterfly,Men,20180301,Sam Horrocks,Great Britain,Great Britain,2:01.92,121920,Elite
+7124,Swimming,2018,200m Butterfly,Men,20180725,Edward Mildred,Great Britain,Great Britain,2:02.04,122040,Elite
+7146,Swimming,2018,200m Butterfly,Men,20180725,Sam Dailley,Great Britain,Great Britain,2:02.33,122330,Elite
+7147,Swimming,2018,200m Butterfly,Men,20180725,Jakob Goodman,Great Britain,Great Britain,2:02.34,122340,Elite
+7175,Swimming,2018,200m Butterfly,Men,20180301,Charlie Hutchison,Great Britain,Great Britain,2:02.67,122670,Elite
+7262,Swimming,2018,200m Butterfly,Men,20180728,Calum Reid,Great Britain,Great Britain,2:03.43,123430,Elite
+7278,Swimming,2018,200m Butterfly,Men,20180301,Freddy Clampett,Great Britain,Great Britain,2:03.51,123510,Elite
+7280,Swimming,2018,200m Butterfly,Women,20180409,Alys Thomas,Wales,Great Britain,2:05.45,125450,Elite
+7300,Swimming,2018,200m Butterfly,Women,20180409,Charlotte Atkinson,Isle of Man,Great Britain,2:08.50,128500,Elite
+7320,Swimming,2018,200m Butterfly,Women,20180304,Laura Stephens,England,Great Britain,2:10.00,130000,Elite
+7330,Swimming,2018,200m Butterfly,Women,20180506,Emily Large,England,Great Britain,2:10.41,130410,Elite
+7334,Swimming,2018,200m Butterfly,Women,20180726,Keanna Macinnes,Scotland,Great Britain,2:10.49,130490,Elite
+7357,Swimming,2018,200m Butterfly,Women,20180705,Ciara Schlosshan,Great Britain,Great Britain,2:11.18,131180,Elite
+7374,Swimming,2018,200m Butterfly,Women,20180409,Hannah Miley,Scotland,Great Britain,2:11.53,131530,Elite
+7386,Swimming,2018,200m Butterfly,Women,20180112,Harriet Jones,Wales,Great Britain,2:11.97,131970,Elite
+7401,Swimming,2018,200m Butterfly,Women,20180409,Aimee Willmott,England,Great Britain,2:12.40,132400,Elite
+7405,Swimming,2018,200m Butterfly,Women,20180726,Isobel Grant,England,Great Britain,2:12.50,132500,Elite
+7409,Swimming,2018,200m Butterfly,Women,20180304,Tain Bruce,Great Britain,Great Britain,2:12.66,132660,Elite
+7429,Swimming,2018,200m Butterfly,Women,20180203,Holly Hibbott,England,Great Britain,2:13.06,133060,Elite
+7471,Swimming,2018,200m Butterfly,Women,20180304,Isabel Spinley,Great Britain,Great Britain,2:13.89,133890,Elite
+7524,Swimming,2018,200m Butterfly,Women,20180615,Meg Finnon,Great Britain,Great Britain,2:14.67,134670,Elite
+7526,Swimming,2018,200m Butterfly,Women,20180726,Tori Sopp,Great Britain,Great Britain,2:14.69,134690,Elite
+7537,Swimming,2018,200m Butterfly,Women,20180726,Caitlin Hubbard,Great Britain,Great Britain,2:14.87,134870,Elite
+7566,Swimming,2018,200m Butterfly,Women,20180726,Ruth McEwen,Great Britain,Great Britain,2:15.25,135250,Elite
+7585,Swimming,2018,200m Butterfly,Women,20180414,Amelia Clynes,Great Britain,Great Britain,2:15.50,135500,Elite
+7590,Swimming,2018,200m Butterfly,Women,20180726,Emma Day,England,Great Britain,2:15.54,135540,Elite
+7615,Swimming,2018,200m Butterfly,Women,20180726,Gaia Alcaras,Great Britain,Great Britain,2:15.83,135830,Elite
+7630,Swimming,2018,200m Butterfly,Women,20180407,Maisie Elliott,Great Britain,Great Britain,2:16.03,136030,Elite
+7641,Swimming,2018,200m Butterfly,Women,20180726,Sophie Freeman,Great Britain,Great Britain,2:16.15,136150,Elite
+7649,Swimming,2018,200m Butterfly,Women,20180726,Fleur Lewis,Great Britain,Great Britain,2:16.26,136260,Elite
+7672,Swimming,2018,200m Butterfly,Women,20180304,Rosie Rudin,England,Great Britain,2:16.44,136440,Elite
+7701,Swimming,2018,200m Butterfly,Women,20180406,Lucy Thornton,Great Britain,Great Britain,2:16.92,136920,Elite
+7706,Swimming,2018,200m Butterfly,Women,20180726,Daisy Anderson,Great Britain,Great Britain,2:16.96,136960,Elite
+7710,Swimming,2018,200m Butterfly,Women,20180726,Rachel Anderson,Great Britain,Great Britain,2:17.00,137000,Elite
+7715,Swimming,2018,200m Butterfly,Women,20180726,Mia Leech,Great Britain,Great Britain,2:17.06,137060,Elite
+7741,Swimming,2018,200m Butterfly,Women,20180304,Charlotte Robinson,Great Britain,Great Britain,2:17.45,137450,Elite
+7744,Swimming,2018,200m Butterfly,Women,20180726,Emma Rowson,Great Britain,Great Britain,2:17.54,137540,Elite
+7758,Swimming,2018,200m Butterfly,Women,20180304,Melanie Hall,Great Britain,Great Britain,2:17.68,137680,Elite
+7762,Swimming,2018,200m Butterfly,Women,20180311,Nikki Miller,Great Britain,Great Britain,2:17.75,137750,Elite
+7774,Swimming,2018,200m Freestyle,Men,20180807,Duncan Scott,Scotland,Great Britain,1:45.34,105340,Elite
+7785,Swimming,2018,200m Freestyle,Men,20180807,James Guy,England,Great Britain,1:46.20,106200,Elite
+7793,Swimming,2018,200m Freestyle,Men,20180406,Calum Jarvis,Wales,Great Britain,1:46.53,106530,Elite
+7822,Swimming,2018,200m Freestyle,Men,20180707,Thomas Dean,Great Britain,Great Britain,1:47.64,107640,Elite
+7830,Swimming,2018,200m Freestyle,Men,20180804,Stephen Milne,Scotland,Great Britain,1:47.77,107770,Elite
+7867,Swimming,2018,200m Freestyle,Men,20180406,Craig McLean,Scotland,Great Britain,1:48.42,108420,Elite
+7886,Swimming,2018,200m Freestyle,Men,20180406,Nicholas Grainger,England,Great Britain,1:48.72,108720,Elite
+7903,Swimming,2018,200m Freestyle,Men,20180406,Cameron Kurle,England,Great Britain,1:48.96,108960,Elite
+7906,Swimming,2018,200m Freestyle,Men,20180406,Timothy Shuttleworth,Great Britain,Great Britain,1:48.98,108980,Elite
+7949,Swimming,2018,200m Freestyle,Men,20180720,Joseph Clark,Great Britain,Great Britain,1:49.40,109400,Elite
+7956,Swimming,2018,200m Freestyle,Men,20180729,Kyle Chisholm,Great Britain,Great Britain,1:49.45,109450,Elite
+7972,Swimming,2018,200m Freestyle,Men,20180526,Max Litchfield,England,Great Britain,1:49.57,109570,Elite
+8022,Swimming,2018,200m Freestyle,Men,20180729,Harry Constantine,Great Britain,Great Britain,1:49.98,109980,Elite
+8023,Swimming,2018,200m Freestyle,Men,20180729,Jakob Goodman,Great Britain,Great Britain,1:50.00,110000,Elite
+8037,Swimming,2018,200m Freestyle,Men,20180729,Fraser Minnican,England,Great Britain,1:50.12,110120,Elite
+8041,Swimming,2018,200m Freestyle,Men,20180331,Dan Jones,Great Britain,Great Britain,1:50.14,110140,Elite
+8057,Swimming,2018,200m Freestyle,Men,20180304,Jay Lelliott,England,Great Britain,1:50.27,110270,Elite
+8105,Swimming,2018,200m Freestyle,Men,20180608,Mark Szaranek,Great Britain,Great Britain,1:50.65,110650,Elite
+8107,Swimming,2018,200m Freestyle,Men,20180303,Lewis Clough,Great Britain,Great Britain,1:50.66,110660,Elite
+8118,Swimming,2018,200m Freestyle,Men,20180707,Luke Turley,Great Britain,Great Britain,1:50.72,110720,Elite
+8136,Swimming,2018,200m Freestyle,Men,20180724,Thomas Kingham,Great Britain,Great Britain,1:50.82,110820,Elite
+8170,Swimming,2018,200m Freestyle,Men,20180729,Thomas Flower,Great Britain,Great Britain,1:50.98,110980,Elite
+8250,Swimming,2018,200m Freestyle,Men,20180729,Kieran Bird,Great Britain,Great Britain,1:51.44,111440,Elite
+8289,Swimming,2018,200m Freestyle,Women,20180405,Eleanor Faulkner,England,Great Britain,1:57.72,117720,Elite
+8299,Swimming,2018,200m Freestyle,Women,20180405,Holly Hibbott,England,Great Britain,1:58.10,118100,Elite
+8311,Swimming,2018,200m Freestyle,Women,20180301,Kathryn Greenslade,Wales,Great Britain,1:58.53,118530,Elite
+8341,Swimming,2018,200m Freestyle,Women,20180301,Lucy Hope,Great Britain,Great Britain,1:59.00,119000,Elite
+8382,Swimming,2018,200m Freestyle,Women,20180724,Elizabeth Harris,Great Britain,Great Britain,1:59.95,119950,Elite
+8411,Swimming,2018,200m Freestyle,Women,20180724,Georgia Coates,Great Britain,Great Britain,2:00.50,120500,Elite
+8435,Swimming,2018,200m Freestyle,Women,20180724,Beth Aitchison,Great Britain,Great Britain,2:00.83,120830,Elite
+8444,Swimming,2018,200m Freestyle,Women,20180724,Polly Holden,Great Britain,Great Britain,2:00.96,120960,Elite
+8469,Swimming,2018,200m Freestyle,Women,20180310,Jazmin Carlin,Wales,Great Britain,2:01.19,121190,Elite
+8499,Swimming,2018,200m Freestyle,Women,20180405,Ellena Jones,Wales,Great Britain,2:01.47,121470,Elite
+8508,Swimming,2018,200m Freestyle,Women,20180724,Hannah Burvill,Great Britain,Great Britain,2:01.58,121580,Elite
+8510,Swimming,2018,200m Freestyle,Women,20180301,Siobhan-Marie O'Connor,England,Great Britain,2:01.60,121600,Elite
+8526,Swimming,2018,200m Freestyle,Women,20180507,Jessica Podger,Great Britain,Great Britain,2:01.68,121680,Elite
+8530,Swimming,2018,200m Freestyle,Women,20180127,Hannah Miley,Scotland,Great Britain,2:01.72,121720,Elite
+8566,Swimming,2018,200m Freestyle,Women,20180127,Rachel-Louise Masson,Scotland,Great Britain,2:02.10,122100,Elite
+8572,Swimming,2018,200m Freestyle,Women,20180724,Jemima Hall,Great Britain,Great Britain,2:02.12,122120,Elite
+8577,Swimming,2018,200m Freestyle,Women,20180301,Madeleine Crompton,Great Britain,Great Britain,2:02.18,122180,Elite
+8595,Swimming,2018,200m Freestyle,Women,20180301,Jessica Jackson,England,Great Britain,2:02.26,122260,Elite
+8596,Swimming,2018,200m Freestyle,Women,20180405,Candice Hall,Great Britain,Great Britain,2:02.27,122270,Elite
+8600,Swimming,2018,200m Freestyle,Women,20180301,Freya Anderson,England,Great Britain,2:02.36,122360,Elite
+8611,Swimming,2018,200m Freestyle,Women,20180724,Maisie Mccartney,Great Britain,Great Britain,2:02.42,122420,Elite
+8621,Swimming,2018,200m Freestyle,Women,20180724,Rachel Anderson,Great Britain,Great Britain,2:02.51,122510,Elite
+8648,Swimming,2018,200m Freestyle,Women,20180301,Aimee Willmott,England,Great Britain,2:02.67,122670,Elite
+8664,Swimming,2018,200m Freestyle,Women,20180301,Camilla Hattersley,Scotland,Great Britain,2:02.85,122850,Elite
+8683,Swimming,2018,200m Freestyle,Women,20180301,Laura Mcnab,Great Britain,Great Britain,2:02.98,122980,Elite
+8731,Swimming,2018,200m Freestyle,Women,20180724,Tamryn Van Selm,Great Britain,Great Britain,2:03.24,123240,Elite
+8733,Swimming,2018,200m Freestyle,Women,20180204,Alice Dearing,England,Great Britain,2:03.25,123250,Elite
+8748,Swimming,2018,200m Freestyle,Women,20180407,Katie Stark,Great Britain,Great Britain,2:03.39,123390,Elite
+8749,Swimming,2018,200m Freestyle,Women,20180301,Leah Crisp,Great Britain,Great Britain,2:03.39,123390,Elite
+8764,Swimming,2018,200m Individual Medley,Men,20180805,Max Litchfield,England,Great Britain,1:57.62,117620,Elite
+8765,Swimming,2018,200m Individual Medley,Men,20180410,Duncan Scott,Scotland,Great Britain,1:57.86,117860,Elite
+8768,Swimming,2018,200m Individual Medley,Men,20180805,Mark Szaranek,Great Britain,Great Britain,1:58.07,118070,Elite
+8780,Swimming,2018,200m Individual Medley,Men,20180706,Thomas Dean,Great Britain,Great Britain,1:59.17,119170,Elite
+8799,Swimming,2018,200m Individual Medley,Men,20180410,Dan Wallace,Scotland,Great Britain,1:59.85,119850,Elite
+8819,Swimming,2018,200m Individual Medley,Men,20180408,Timothy Shuttleworth,Great Britain,Great Britain,2:00.56,120560,Elite
+8834,Swimming,2018,200m Individual Medley,Men,20180410,Xavier Castelli,Wales,Great Britain,2:00.97,120970,Elite
+8852,Swimming,2018,200m Individual Medley,Men,20180408,Fraser Minnican,England,Great Britain,2:01.43,121430,Elite
+8859,Swimming,2018,200m Individual Medley,Men,20180728,Joe Litchfield,England,Great Britain,2:01.49,121490,Elite
+8866,Swimming,2018,200m Individual Medley,Men,20180408,James Mcfadzen,Great Britain,Great Britain,2:01.81,121810,Elite
+8927,Swimming,2018,200m Individual Medley,Men,20180303,Jarvis Parkinson,England,Great Britain,2:02.77,122770,Elite
+8929,Swimming,2018,200m Individual Medley,Men,20180303,James Guy,England,Great Britain,2:02.79,122790,Elite
+8954,Swimming,2018,200m Individual Medley,Men,20180112,Brodie Williams,Great Britain,Great Britain,2:03.15,123150,Elite
+8964,Swimming,2018,200m Individual Medley,Men,20180728,Callum Lawrie,Great Britain,Great Britain,2:03.27,123270,Elite
+8969,Swimming,2018,200m Individual Medley,Men,20180728,Jacob Greenow,Great Britain,Great Britain,2:03.33,123330,Elite
+9018,Swimming,2018,200m Individual Medley,Men,20180802,Matthew Domville,Great Britain,Great Britain,2:03.75,123750,Elite
+9022,Swimming,2018,200m Individual Medley,Men,20180728,Charlie Hutchison,Great Britain,Great Britain,2:03.82,123820,Elite
+9025,Swimming,2018,200m Individual Medley,Men,20181129,Dominic Polling,Great Britain,Great Britain,2:03.86,123860,Elite
+9028,Swimming,2018,200m Individual Medley,Men,20180415,George Clough,Great Britain,Great Britain,2:03.91,123910,Elite
+9050,Swimming,2018,200m Individual Medley,Men,20180728,Archie Goodburn,Great Britain,Great Britain,2:04.14,124140,Elite
+9167,Swimming,2018,200m Individual Medley,Men,20180303,Martyn Walton,England,Great Britain,2:05.35,125350,Elite
+9207,Swimming,2018,200m Individual Medley,Men,20180428,Thomas Paine,Great Britain,Great Britain,2:05.65,125650,Elite
+9212,Swimming,2018,200m Individual Medley,Men,20180728,Nathan Hughes,Great Britain,Great Britain,2:05.69,125690,Elite
+9253,Swimming,2018,200m Individual Medley,Women,20180408,Siobhan-Marie O'Connor,England,Great Britain,2:09.80,129800,Elite
+9275,Swimming,2018,200m Individual Medley,Women,20180408,Aimee Willmott,England,Great Britain,2:12.07,132070,Elite
+9280,Swimming,2018,200m Individual Medley,Women,20180408,Hannah Miley,Scotland,Great Britain,2:12.50,132500,Elite
+9287,Swimming,2018,200m Individual Medley,Women,20180408,Abbie Wood,England,Great Britain,2:12.85,132850,Elite
+9305,Swimming,2018,200m Individual Medley,Women,20180728,Katie Matts,Great Britain,Great Britain,2:13.81,133810,Elite
+9321,Swimming,2018,200m Individual Medley,Women,20180407,Beth Aitchison,Great Britain,Great Britain,2:14.39,134390,Elite
+9323,Swimming,2018,200m Individual Medley,Women,20180728,Alicia Wilson,Great Britain,Great Britain,2:14.42,134420,Elite
+9338,Swimming,2018,200m Individual Medley,Women,20180728,Amy Bell,Great Britain,Great Britain,2:14.82,134820,Elite
+9364,Swimming,2018,200m Individual Medley,Women,20180728,Laura Stephens,England,Great Britain,2:15.39,135390,Elite
+9370,Swimming,2018,200m Individual Medley,Women,20180614,Georgia Coates,Great Britain,Great Britain,2:15.49,135490,Elite
+9386,Swimming,2018,200m Individual Medley,Women,20180609,Emma Day,England,Great Britain,2:15.79,135790,Elite
+9403,Swimming,2018,200m Individual Medley,Women,20180728,Candice Hall,Great Britain,Great Britain,2:16.10,136100,Elite
+9412,Swimming,2018,200m Individual Medley,Women,20180203,Holly Hibbott,England,Great Britain,2:16.30,136300,Elite
+9466,Swimming,2018,200m Individual Medley,Women,20180413,Constance Dean,Great Britain,Great Britain,2:17.06,137060,Elite
+9484,Swimming,2018,200m Individual Medley,Women,20180408,Orla Adams,Great Britain,Great Britain,2:17.33,137330,Elite
+9490,Swimming,2018,200m Individual Medley,Women,20180728,Katie Robertson,Great Britain,Great Britain,2:17.40,137400,Elite
+9591,Swimming,2018,200m Individual Medley,Women,20180112,Ciara Schlosshan,Great Britain,Great Britain,2:18.55,138550,Elite
+9599,Swimming,2018,200m Individual Medley,Women,20180727,Julia Knox,Ireland,Great Britain,2:18.62,138620,Elite
+9619,Swimming,2018,200m Individual Medley,Women,20180728,Sophia Wilson,Great Britain,Great Britain,2:18.77,138770,Elite
+9622,Swimming,2018,200m Individual Medley,Women,20180728,Katie Shanahan,Great Britain,Great Britain,2:18.79,138790,Elite
+9625,Swimming,2018,200m Individual Medley,Women,20180302,Rosie Rudin,England,Great Britain,2:18.84,138840,Elite
+9638,Swimming,2018,200m Individual Medley,Women,20180401,Rebecca Sutton,Great Britain,Great Britain,2:18.94,138940,Elite
+9651,Swimming,2018,200m Individual Medley,Women,20180728,Amelia Monaghan,Great Britain,Great Britain,2:19.06,139060,Elite
+9656,Swimming,2018,200m Individual Medley,Women,20180302,Daisy Anderson,Great Britain,Great Britain,2:19.09,139090,Elite
+9661,Swimming,2018,200m Individual Medley,Women,20180728,Tori Sopp,Great Britain,Great Britain,2:19.11,139110,Elite
+9671,Swimming,2018,200m Individual Medley,Women,20180728,Ellie Reilly,Great Britain,Great Britain,2:19.22,139220,Elite
+9688,Swimming,2018,200m Individual Medley,Women,20180728,Rebecca Clynes,Great Britain,Great Britain,2:19.37,139370,Elite
+9691,Swimming,2018,200m Individual Medley,Women,20180802,Rosanna Arnold,Great Britain,Great Britain,2:19.41,139410,Elite
+9703,Swimming,2018,200m Individual Medley,Women,20180728,Eleanor Cowan,Great Britain,Great Britain,2:19.55,139550,Elite
+9709,Swimming,2018,200m Individual Medley,Women,20180728,Lily Booker,Great Britain,Great Britain,2:19.58,139580,Elite
+9711,Swimming,2018,200m Individual Medley,Women,20180728,Madelaine Hardingham,Great Britain,Great Britain,2:19.59,139590,Elite
+9713,Swimming,2018,200m Individual Medley,Women,20180408,Niamh Robinson,Isle of Man,Great Britain,2:19.62,139620,Elite
+9759,Swimming,2018,4 x 100m Freestyle Relay,Men,20180803,,,Great Britain,3:17.31,197310,Elite
+9806,Swimming,2018,4 x 100m Freestyle Relay,Women,20180803,,,Great Britain,3:37.26,217260,Elite
+9808,Swimming,2018,4 x 100m Freestyle Relay,Mixed,20180705,,,Great Britain,3:37.82,217820,Elite
+9857,Swimming,2018,4 x 100m Medley Relay,Men,20180809,,,Great Britain,3:30.44,210440,Elite
+9877,Swimming,2018,4 x 100m Medley Relay,Mixed,20180806,,,Great Britain,3:40.18,220180,Elite
+9928,Swimming,2018,4 x 100m Medley Relay,Women,20180809,,,Great Britain,3:56.91,236910,Elite
+9984,Swimming,2018,4 x 200m Freestyle Relay,Men,20180805,,,Great Britain,7:05.32,425320,Elite
+10007,Swimming,2018,4 x 200m Freestyle Relay,Mixed,20180806,,,Great Britain,7:29.72,449720,Elite
+10028,Swimming,2018,4 x 200m Freestyle Relay,Women,20180807,,,Great Britain,7:51.65,471650,Elite
+10056,Swimming,2018,400m Freestyle,Men,20180405,James Guy,England,Great Britain,3:45.32,225320,Elite
+10077,Swimming,2018,400m Freestyle,Men,20180405,Daniel Jervis,Wales,Great Britain,3:48.08,228080,Elite
+10105,Swimming,2018,400m Freestyle,Men,20180803,Stephen Milne,Scotland,Great Britain,3:50.05,230050,Elite
+10110,Swimming,2018,400m Freestyle,Men,20180803,Jay Lelliott,England,Great Britain,3:50.21,230210,Elite
+10126,Swimming,2018,400m Freestyle,Men,20180405,Timothy Shuttleworth,Great Britain,Great Britain,3:50.79,230790,Elite
+10154,Swimming,2018,400m Freestyle,Men,20180404,Tom Derbyshire,Great Britain,Great Britain,3:51.54,231540,Elite
+10211,Swimming,2018,400m Freestyle,Men,20180724,Nicholas Grainger,England,Great Britain,3:53.44,233440,Elite
+10212,Swimming,2018,400m Freestyle,Men,20180724,Samuel Budd,Great Britain,Great Britain,3:53.49,233490,Elite
+10233,Swimming,2018,400m Freestyle,Men,20180302,Kieran Bird,Great Britain,Great Britain,3:53.87,233870,Elite
+10256,Swimming,2018,400m Freestyle,Men,20180302,Luke Turley,Great Britain,Great Britain,3:54.37,234370,Elite
+10288,Swimming,2018,400m Freestyle,Men,20180724,Kyle Chisholm,Great Britain,Great Britain,3:54.90,234900,Elite
+10296,Swimming,2018,400m Freestyle,Men,20180724,Jakob Goodman,Great Britain,Great Britain,3:55.00,235000,Elite
+10349,Swimming,2018,400m Freestyle,Men,20180724,William Bell,Great Britain,Great Britain,3:55.93,235930,Elite
+10417,Swimming,2018,400m Freestyle,Men,20180724,Samuel Osborne,Great Britain,Great Britain,3:57.09,237090,Elite
+10419,Swimming,2018,400m Freestyle,Men,20180203,Harrison Coulter,Great Britain,Great Britain,3:57.13,237130,Elite
+10448,Swimming,2018,400m Freestyle,Men,20180724,William Ryley,Great Britain,Great Britain,3:57.51,237510,Elite
+10547,Swimming,2018,400m Freestyle,Women,20180809,Holly Hibbott,England,Great Britain,4:05.01,245010,Elite
+10558,Swimming,2018,400m Freestyle,Women,20180410,Eleanor Faulkner,England,Great Britain,4:07.35,247350,Elite
+10622,Swimming,2018,400m Freestyle,Women,20180410,Camilla Hattersley,Scotland,Great Britain,4:12.24,252240,Elite
+10657,Swimming,2018,400m Freestyle,Women,20180407,Alice Dearing,England,Great Britain,4:13.54,253540,Elite
+10666,Swimming,2018,400m Freestyle,Women,20180204,Jazmin Carlin,Wales,Great Britain,4:13.86,253860,Elite
+10685,Swimming,2018,400m Freestyle,Women,20180728,Elizabeth Harris,Great Britain,Great Britain,4:14.46,254460,Elite
+10692,Swimming,2018,400m Freestyle,Women,20180410,Hannah Miley,Scotland,Great Britain,4:14.62,254620,Elite
+10696,Swimming,2018,400m Freestyle,Women,20180629,Abbie Wood,England,Great Britain,4:14.75,254750,Elite
+10698,Swimming,2018,400m Freestyle,Women,20180705,Leah Crisp,Great Britain,Great Britain,4:14.78,254780,Elite
+10715,Swimming,2018,400m Freestyle,Women,20180629,Kathryn Greenslade,Wales,Great Britain,4:15.28,255280,Elite
+10727,Swimming,2018,400m Freestyle,Women,20180623,Polly Holden,Great Britain,Great Britain,4:15.62,255620,Elite
+10804,Swimming,2018,400m Freestyle,Women,20180407,Emily Clarke,Great Britain,Great Britain,4:17.54,257540,Elite
+10853,Swimming,2018,400m Freestyle,Women,20180303,Madeleine Crompton,Great Britain,Great Britain,4:18.40,258400,Elite
+10859,Swimming,2018,400m Freestyle,Women,20180728,Rachel Anderson,Great Britain,Great Britain,4:18.52,258520,Elite
+10871,Swimming,2018,400m Freestyle,Women,20180728,Lola Davison,Great Britain,Great Britain,4:18.71,258710,Elite
+10882,Swimming,2018,400m Freestyle,Women,20180410,Ellena Jones,Wales,Great Britain,4:18.92,258920,Elite
+10885,Swimming,2018,400m Freestyle,Women,20180728,Abbie Houston,Scotland,Great Britain,4:18.98,258980,Elite
+10889,Swimming,2018,400m Freestyle,Women,20180303,Laura Stephens,England,Great Britain,4:19.08,259080,Elite
+10932,Swimming,2018,400m Freestyle,Women,20180310,Georgia Darwent,Great Britain,Great Britain,4:19.74,259740,Elite
+10941,Swimming,2018,400m Freestyle,Women,20180728,Hannah Burvill,Great Britain,Great Britain,4:19.89,259890,Elite
+10944,Swimming,2018,400m Freestyle,Women,20180728,Freya Colbert,Great Britain,Great Britain,4:19.96,259960,Elite
+10952,Swimming,2018,400m Freestyle,Women,20180728,Betsy Wizard,Great Britain,Great Britain,4:20.15,260150,Elite
+10993,Swimming,2018,400m Freestyle,Women,20180802,Elizabeth Boeckman,Great Britain,Great Britain,4:20.89,260890,Elite
+11008,Swimming,2018,400m Freestyle,Women,20180707,Meg Finnon,Great Britain,Great Britain,4:21.04,261040,Elite
+11041,Swimming,2018,400m Individual Medley,Men,20180809,Max Litchfield,England,Great Britain,4:11.00,251000,Elite
+11047,Swimming,2018,400m Individual Medley,Men,20180406,Mark Szaranek,Great Britain,Great Britain,4:13.72,253720,Elite
+11078,Swimming,2018,400m Individual Medley,Men,20180405,Fraser Minnican,England,Great Britain,4:17.15,257150,Elite
+11088,Swimming,2018,400m Individual Medley,Men,20180708,Thomas Dean,Great Britain,Great Britain,4:18.07,258070,Elite
+11111,Swimming,2018,400m Individual Medley,Men,20180726,Joe Litchfield,England,Great Britain,4:19.14,259140,Elite
+11126,Swimming,2018,400m Individual Medley,Men,20180726,Jacob Greenow,Great Britain,Great Britain,4:20.23,260230,Elite
+11131,Swimming,2018,400m Individual Medley,Men,20180708,Charlie Hutchison,Great Britain,Great Britain,4:20.55,260550,Elite
+11214,Swimming,2018,400m Individual Medley,Men,20180726,Callum Lawrie,Great Britain,Great Britain,4:23.68,263680,Elite
+11232,Swimming,2018,400m Individual Medley,Men,20180630,Brodie Williams,Great Britain,Great Britain,4:24.22,264220,Elite
+11278,Swimming,2018,400m Individual Medley,Men,20180726,Nathan Hughes,Great Britain,Great Britain,4:25.81,265810,Elite
+11344,Swimming,2018,400m Individual Medley,Men,20180726,Zak Logue,Great Britain,Great Britain,4:27.34,267340,Elite
+11345,Swimming,2018,400m Individual Medley,Men,20180304,Thomas Paine,Great Britain,Great Britain,4:27.35,267350,Elite
+11398,Swimming,2018,400m Individual Medley,Men,20180304,William Bell,Great Britain,Great Britain,4:28.61,268610,Elite
+11399,Swimming,2018,400m Individual Medley,Men,20180726,Jakob Goodman,Great Britain,Great Britain,4:28.64,268640,Elite
+11440,Swimming,2018,400m Individual Medley,Men,20180726,Nathan Wells,Great Britain,Great Britain,4:29.62,269620,Elite
+11461,Swimming,2018,400m Individual Medley,Men,20180726,Robbie Jones,Great Britain,Great Britain,4:30.19,270190,Elite
+11519,Swimming,2018,400m Individual Medley,Men,20180726,Marcus Dey,Great Britain,Great Britain,4:31.91,271910,Elite
+11525,Swimming,2018,400m Individual Medley,Men,20180407,Craig Munden,Great Britain,Great Britain,4:31.96,271960,Elite
+11530,Swimming,2018,400m Individual Medley,Women,20180405,Aimee Willmott,England,Great Britain,4:34.90,274900,Elite
+11532,Swimming,2018,400m Individual Medley,Women,20180405,Hannah Miley,Scotland,Great Britain,4:35.16,275160,Elite
+11560,Swimming,2018,400m Individual Medley,Women,20180405,Abbie Wood,England,Great Britain,4:40.55,280550,Elite
+11576,Swimming,2018,400m Individual Medley,Women,20180301,Rosie Rudin,England,Great Britain,4:42.80,282800,Elite
+11624,Swimming,2018,400m Individual Medley,Women,20180724,Amy Bell,Great Britain,Great Britain,4:46.57,286570,Elite
+11627,Swimming,2018,400m Individual Medley,Women,20180412,Constance Dean,Great Britain,Great Britain,4:46.63,286630,Elite
+11669,Swimming,2018,400m Individual Medley,Women,20180724,Laura Stephens,England,Great Britain,4:48.77,288770,Elite
+11713,Swimming,2018,400m Individual Medley,Women,20180405,Orla Adams,Great Britain,Great Britain,4:50.61,290610,Elite
+11718,Swimming,2018,400m Individual Medley,Women,20180724,Katie Shanahan,Great Britain,Great Britain,4:50.69,290690,Elite
+11729,Swimming,2018,400m Individual Medley,Women,20180724,Amelia Monaghan,Great Britain,Great Britain,4:51.16,291160,Elite
+11740,Swimming,2018,400m Individual Medley,Women,20180724,Rebecca Clynes,Great Britain,Great Britain,4:51.44,291440,Elite
+11760,Swimming,2018,400m Individual Medley,Women,20180301,Daisy Anderson,Great Britain,Great Britain,4:51.98,291980,Elite
+11773,Swimming,2018,400m Individual Medley,Women,20180405,Julia Knox,Ireland,Great Britain,4:52.62,292620,Elite
+11776,Swimming,2018,400m Individual Medley,Women,20180324,Katie Matts,Great Britain,Great Britain,4:52.64,292640,Elite
+11786,Swimming,2018,400m Individual Medley,Women,20180724,Madelaine Hardingham,Great Britain,Great Britain,4:53.02,293020,Elite
+11806,Swimming,2018,400m Individual Medley,Women,20180712,Jennifer King,Great Britain,Great Britain,4:53.36,293360,Elite
+11812,Swimming,2018,400m Individual Medley,Women,20180301,Georgia Coates,Great Britain,Great Britain,4:53.48,293480,Elite
+11828,Swimming,2018,400m Individual Medley,Women,20180704,Lily Booker,Great Britain,Great Britain,4:53.84,293840,Elite
+11830,Swimming,2018,400m Individual Medley,Women,20180406,Candice Hall,Great Britain,Great Britain,4:53.88,293880,Elite
+11845,Swimming,2018,400m Individual Medley,Women,20180301,Freya Colbert,Great Britain,Great Britain,4:54.32,294320,Elite
+11860,Swimming,2018,400m Individual Medley,Women,20180724,Erin Davies,Great Britain,Great Britain,4:54.64,294640,Elite
+11861,Swimming,2018,400m Individual Medley,Women,20180724,Melanie Hall,Great Britain,Great Britain,4:54.67,294670,Elite
+11892,Swimming,2018,400m Individual Medley,Women,20180301,Ciara Schlosshan,Great Britain,Great Britain,4:55.64,295640,Elite
+11893,Swimming,2018,400m Individual Medley,Women,20180724,Mollie Wright,Great Britain,Great Britain,4:55.66,295660,Elite
+11915,Swimming,2018,400m Individual Medley,Women,20180724,Betsy Wizard,Great Britain,Great Britain,4:56.12,296120,Elite
+11958,Swimming,2018,400m Individual Medley,Women,20180724,Michaella Glenister,Great Britain,Great Britain,4:57.44,297440,Elite
+11992,Swimming,2018,400m Individual Medley,Women,20180724,Ellie Turner,Great Britain,Great Britain,4:58.01,298010,Elite
+11997,Swimming,2018,400m Individual Medley,Women,20180329,Gaia Alcaras,Great Britain,Great Britain,4:58.25,298250,Elite
+12016,Swimming,2018,400m Individual Medley,Women,20180724,Mia Leech,Great Britain,Great Britain,4:58.66,298660,Elite
+12020,Swimming,2018,400m Individual Medley,Women,20180724,Tilly Hansen-Hamilton,Great Britain,Great Britain,4:58.72,298720,Elite
+12057,Swimming,2018,50m Backstroke,Men,20180803,Nicholas Pyle,Great Britain,Great Britain,25.10,25100,Elite
+12088,Swimming,2018,50m Backstroke,Men,20180408,Xavier Castelli,Wales,Great Britain,25.44,25440,Elite
+12106,Swimming,2018,50m Backstroke,Men,20180407,Harry Shalamon,Jersey,Great Britain,25.52,25520,Elite
+12114,Swimming,2018,50m Backstroke,Men,20180724,Martyn Walton,England,Great Britain,25.55,25550,Elite
+12121,Swimming,2018,50m Backstroke,Men,20180301,Chris Walker-Hebborn,England,Great Britain,25.58,25580,Elite
+12146,Swimming,2018,50m Backstroke,Men,20180724,Scott Gibson,Great Britain,Great Britain,25.66,25660,Elite
+12180,Swimming,2018,50m Backstroke,Men,20180408,Craig McNally,Scotland,Great Britain,25.80,25800,Elite
+12184,Swimming,2018,50m Backstroke,Men,20180724,James Oxborrow,Great Britain,Great Britain,25.83,25830,Elite
+12198,Swimming,2018,50m Backstroke,Men,20180724,Liam White,Great Britain,Great Britain,25.88,25880,Elite
+12201,Swimming,2018,50m Backstroke,Men,20180203,Daniel Cross,Great Britain,Great Britain,25.90,25900,Elite
+12202,Swimming,2018,50m Backstroke,Men,20180724,Thomas Gilroy,Great Britain,Great Britain,25.92,25920,Elite
+12208,Swimming,2018,50m Backstroke,Men,20180724,Samuel Irvine,Great Britain,Great Britain,25.94,25940,Elite
+12247,Swimming,2018,50m Backstroke,Men,20180724,Joseph Small,Great Britain,Great Britain,26.08,26080,Elite
+12252,Swimming,2018,50m Backstroke,Men,20180726,Francisco Rogerio Santos,Great Britain,Great Britain,26.09,26090,Elite
+12275,Swimming,2018,50m Backstroke,Men,20180301,Luke Greenbank,England,Great Britain,26.17,26170,Elite
+12285,Swimming,2018,50m Backstroke,Men,20180724,Oliver Fitt,Great Britain,Great Britain,26.21,26210,Elite
+12299,Swimming,2018,50m Backstroke,Men,20180522,Kacper Pastula,Great Britain,Great Britain,26.25,26250,Elite
+12395,Swimming,2018,50m Backstroke,Men,20180724,Charlie Brown,Great Britain,Great Britain,26.50,26500,Elite
+12398,Swimming,2018,50m Backstroke,Men,20180724,Andrew Sawkins,Great Britain,Great Britain,26.51,26510,Elite
+12415,Swimming,2018,50m Backstroke,Men,20180301,Brodie Williams,Great Britain,Great Britain,26.55,26550,Elite
+12425,Swimming,2018,50m Backstroke,Men,20180725,William Kearsey,Great Britain,Great Britain,26.57,26570,Elite
+12434,Swimming,2018,50m Backstroke,Men,20180301,Alexander Mason,Great Britain,Great Britain,26.58,26580,Elite
+12439,Swimming,2018,50m Backstroke,Men,20180324,Kyle Chisholm,Great Britain,Great Britain,26.58,26580,Elite
+12458,Swimming,2018,50m Backstroke,Men,20180407,Joseph Hulme,Great Britain,Great Britain,26.63,26630,Elite
+12468,Swimming,2018,50m Backstroke,Men,20180724,Sam Dailley,Great Britain,Great Britain,26.65,26650,Elite
+12470,Swimming,2018,50m Backstroke,Men,20180629,Elliot Clogg,England,Great Britain,26.66,26660,Elite
+12475,Swimming,2018,50m Backstroke,Men,20180505,Perry Gardner,Great Britain,Great Britain,26.66,26660,Elite
+12511,Swimming,2018,50m Backstroke,Men,20180301,Jack Shillinglaw,Great Britain,Great Britain,26.73,26730,Elite
+12519,Swimming,2018,50m Backstroke,Women,20180804,Georgia Davies,Wales,Great Britain,27.21,27210,Elite
+12539,Swimming,2018,50m Backstroke,Women,20180804,Kathleen Dawson,Scotland,Great Britain,27.92,27920,Elite
+12553,Swimming,2018,50m Backstroke,Women,20180410,Cassie Wild,Scotland,Great Britain,28.18,28180,Elite
+12554,Swimming,2018,50m Backstroke,Women,20180301,Lucy Hope,Great Britain,Great Britain,28.18,28180,Elite
+12575,Swimming,2018,50m Backstroke,Women,20180728,Lauren Cox,Great Britain,Great Britain,28.42,28420,Elite
+12597,Swimming,2018,50m Backstroke,Women,20180301,Elizabeth Simmonds,England,Great Britain,28.61,28610,Elite
+12687,Swimming,2018,50m Backstroke,Women,20180301,Lily Boseley,Great Britain,Great Britain,29.09,29090,Elite
+12688,Swimming,2018,50m Backstroke,Women,20180629,Jessica Fullalove,England,Great Britain,29.09,29090,Elite
+12705,Swimming,2018,50m Backstroke,Women,20180301,Anna Maine,England,Great Britain,29.19,29190,Elite
+12708,Swimming,2018,50m Backstroke,Women,20180728,Tegan Drew,Great Britain,Great Britain,29.20,29200,Elite
+12724,Swimming,2018,50m Backstroke,Women,20180728,Emily Crane,Great Britain,Great Britain,29.28,29280,Elite
+12734,Swimming,2018,50m Backstroke,Women,20180401,Medi Harris,Great Britain,Great Britain,29.35,29350,Elite
+12735,Swimming,2018,50m Backstroke,Women,20180409,Harriet West,Wales,Great Britain,29.35,29350,Elite
+12776,Swimming,2018,50m Backstroke,Women,20180301,Emily Peck,Great Britain,Great Britain,29.45,29450,Elite
+12796,Swimming,2018,50m Backstroke,Women,20180523,Julia Scrivin,Great Britain,Great Britain,29.50,29500,Elite
+12837,Swimming,2018,50m Backstroke,Women,20180728,Martha Duley,Great Britain,Great Britain,29.57,29570,Elite
+12859,Swimming,2018,50m Backstroke,Women,20180728,Kelly Small,Great Britain,Great Britain,29.63,29630,Elite
+12873,Swimming,2018,50m Backstroke,Women,20180301,Alexandra Waller,Great Britain,Great Britain,29.67,29670,Elite
+12878,Swimming,2018,50m Backstroke,Women,20180609,Chloe Golding,England,Great Britain,29.68,29680,Elite
+12881,Swimming,2018,50m Backstroke,Women,20180728,Charlotte Evans,Great Britain,Great Britain,29.68,29680,Elite
+12899,Swimming,2018,50m Backstroke,Women,20180507,Daisy Platts,Great Britain,Great Britain,29.72,29720,Elite
+12900,Swimming,2018,50m Backstroke,Women,20180301,Karen Reid,Scotland,Great Britain,29.74,29740,Elite
+12902,Swimming,2018,50m Backstroke,Women,20180331,Emily Grant,Great Britain,Great Britain,29.75,29750,Elite
+12918,Swimming,2018,50m Backstroke,Women,20180301,Meghan Maybanks,Great Britain,Great Britain,29.80,29800,Elite
+12942,Swimming,2018,50m Backstroke,Women,20180728,Imogen Meers,Great Britain,Great Britain,29.84,29840,Elite
+12948,Swimming,2018,50m Backstroke,Women,20180324,Mimi Morley Iszatt,Great Britain,Great Britain,29.85,29850,Elite
+12962,Swimming,2018,50m Backstroke,Women,20180728,Caroline McIntosh,Great Britain,Great Britain,29.89,29890,Elite
+12969,Swimming,2018,50m Backstroke,Women,20180325,Pia Murray,Great Britain,Great Britain,29.91,29910,Elite
+12977,Swimming,2018,50m Backstroke,Women,20180728,Emily Iley,Great Britain,Great Britain,29.93,29930,Elite
+12991,Swimming,2018,50m Backstroke,Women,20180728,Chiara Tommasello,Great Britain,Great Britain,29.95,29950,Elite
+12995,Swimming,2018,50m Backstroke,Women,20180507,Charlotte Fletcher-Stables,Great Britain,Great Britain,29.96,29960,Elite
+13008,Swimming,2018,50m Breaststroke,Men,20180808,Adam Peaty,England,Great Britain,26.09,26090,Elite
+13037,Swimming,2018,50m Breaststroke,Men,20180807,Ross Murdoch,Scotland,Great Britain,27.27,27270,Elite
+13040,Swimming,2018,50m Breaststroke,Men,20180414,Lawrence Palmer,Great Britain,Great Britain,27.31,27310,Elite
+13043,Swimming,2018,50m Breaststroke,Men,20180725,Craig Benson,Scotland,Great Britain,27.33,27330,Elite
+13048,Swimming,2018,50m Breaststroke,Men,20180409,James Wilby,England,Great Britain,27.37,27370,Elite
+13080,Swimming,2018,50m Breaststroke,Men,20180415,Zak Aitchison,Great Britain,Great Britain,27.65,27650,Elite
+13108,Swimming,2018,50m Breaststroke,Men,20180408,Euan Inglis,Great Britain,Great Britain,27.84,27840,Elite
+13129,Swimming,2018,50m Breaststroke,Men,20180725,David Murphy,Great Britain,Great Britain,27.99,27990,Elite
+13134,Swimming,2018,50m Breaststroke,Men,20180324,Stephenson Lewis Clifford,Great Britain,Great Britain,27.99,27990,Elite
+13141,Swimming,2018,50m Breaststroke,Men,20180725,Archie Goodburn,Great Britain,Great Britain,28.04,28040,Elite
+13144,Swimming,2018,50m Breaststroke,Men,20180725,George Hopkins,Great Britain,Great Britain,28.04,28040,Elite
+13149,Swimming,2018,50m Breaststroke,Men,20180408,Mark Campbell,Great Britain,Great Britain,28.07,28070,Elite
+13162,Swimming,2018,50m Breaststroke,Men,20180725,Gregory Butler,Great Britain,Great Britain,28.14,28140,Elite
+13169,Swimming,2018,50m Breaststroke,Men,20180304,Chris Kerr,Great Britain,Great Britain,28.19,28190,Elite
+13197,Swimming,2018,50m Breaststroke,Men,20180725,Marcus Gardiner,Great Britain,Great Britain,28.30,28300,Elite
+13229,Swimming,2018,50m Breaststroke,Men,20180505,Oliver Crosby,Great Britain,Great Britain,28.39,28390,Elite
+13231,Swimming,2018,50m Breaststroke,Men,20180610,Charlie Attwood,England,Great Britain,28.39,28390,Elite
+13309,Swimming,2018,50m Breaststroke,Men,20180725,James Lewis,Great Britain,Great Britain,28.62,28620,Elite
+13316,Swimming,2018,50m Breaststroke,Men,20180725,Oliver Taverner,Great Britain,Great Britain,28.64,28640,Elite
+13325,Swimming,2018,50m Breaststroke,Men,20180725,Lewis Fraser,Great Britain,Great Britain,28.67,28670,Elite
+13352,Swimming,2018,50m Breaststroke,Men,20180725,Kyle Boyek,Great Britain,Great Britain,28.75,28750,Elite
+13408,Swimming,2018,50m Breaststroke,Men,20180725,Robert Cowley,Great Britain,Great Britain,28.90,28900,Elite
+13426,Swimming,2018,50m Breaststroke,Men,20180725,David Trickett,Great Britain,Great Britain,28.94,28940,Elite
+13460,Swimming,2018,50m Breaststroke,Men,20180803,Neil Redman,Great Britain,Great Britain,29.01,29010,Elite
+13485,Swimming,2018,50m Breaststroke,Men,20180113,Jack Mccomish,Great Britain,Great Britain,29.06,29060,Elite
+13488,Swimming,2018,50m Breaststroke,Men,20180725,Richard Ayre,Great Britain,Great Britain,29.06,29060,Elite
+13500,Swimming,2018,50m Breaststroke,Women,20180808,Imogen Clark,Great Britain,Great Britain,30.04,30040,Elite
+13509,Swimming,2018,50m Breaststroke,Women,20180406,Sarah Vasey,England,Great Britain,30.60,30600,Elite
+13538,Swimming,2018,50m Breaststroke,Women,20180724,Katie Matts,Great Britain,Great Britain,31.20,31200,Elite
+13542,Swimming,2018,50m Breaststroke,Women,20180405,Chloe Tutton,Wales,Great Britain,31.24,31240,Elite
+13547,Swimming,2018,50m Breaststroke,Women,20180724,Beth Aitchison,Great Britain,Great Britain,31.27,31270,Elite
+13549,Swimming,2018,50m Breaststroke,Women,20180704,Tatiana Belonogoff,Great Britain,Great Britain,31.29,31290,Elite
+13553,Swimming,2018,50m Breaststroke,Women,20180630,Siobhan-Marie O'Connor,England,Great Britain,31.29,31290,Elite
+13554,Swimming,2018,50m Breaststroke,Women,20180405,Corrie Scott,Scotland,Great Britain,31.33,31330,Elite
+13581,Swimming,2018,50m Breaststroke,Women,20180204,Jocelyn Ulyett,England,Great Britain,31.59,31590,Elite
+13586,Swimming,2018,50m Breaststroke,Women,20180704,Katie Robertson,Great Britain,Great Britain,31.68,31680,Elite
+13589,Swimming,2018,50m Breaststroke,Women,20180724,Kara Hanlon,Great Britain,Great Britain,31.69,31690,Elite
+13628,Swimming,2018,50m Breaststroke,Women,20180406,Megan Morrison,Great Britain,Great Britain,31.98,31980,Elite
+13629,Swimming,2018,50m Breaststroke,Women,20180405,Laura Kinley,Isle of Man,Great Britain,31.99,31990,Elite
+13639,Swimming,2018,50m Breaststroke,Women,20180724,Annabel Guye-Johnson,Great Britain,Great Britain,32.00,32009,Elite
+13654,Swimming,2018,50m Breaststroke,Women,20180309,Carmella Kitching,Great Britain,Great Britain,32.09,32090,Elite
+13659,Swimming,2018,50m Breaststroke,Women,20180724,Grace Gilroy,Great Britain,Great Britain,32.11,32119,Elite
+13670,Swimming,2018,50m Breaststroke,Women,20180405,Molly Renshaw,England,Great Britain,32.18,32180,Elite
+13681,Swimming,2018,50m Breaststroke,Women,20180704,Angharad Evans,Great Britain,Great Britain,32.22,32229,Elite
+13693,Swimming,2018,50m Breaststroke,Women,20180724,Jemimah Berkeley,Great Britain,Great Britain,32.28,32280,Elite
+13708,Swimming,2018,50m Breaststroke,Women,20180724,Georgina Evans,Great Britain,Great Britain,32.33,32330,Elite
+13729,Swimming,2018,50m Breaststroke,Women,20180506,Rachel Taylor,Great Britain,Great Britain,32.43,32439,Elite
+13733,Swimming,2018,50m Breaststroke,Women,20180724,Georgina Heyn,Great Britain,Great Britain,32.47,32479,Elite
+13749,Swimming,2018,50m Breaststroke,Women,20180724,Illizane Pinfold,Great Britain,Great Britain,32.54,32540,Elite
+13774,Swimming,2018,50m Breaststroke,Women,20180724,Anna Leman,Great Britain,Great Britain,32.63,32630,Elite
+13778,Swimming,2018,50m Breaststroke,Women,20180304,Rebecca Clynes,Great Britain,Great Britain,32.63,32630,Elite
+13784,Swimming,2018,50m Breaststroke,Women,20180724,Kayla Van Der Merwe,Great Britain,Great Britain,32.65,32650,Elite
+13814,Swimming,2018,50m Breaststroke,Women,20180405,Niamh Robinson,Isle of Man,Great Britain,32.77,32770,Elite
+13824,Swimming,2018,50m Breaststroke,Women,20180724,Lucia Grant,Great Britain,Great Britain,32.80,32800,Elite
+13857,Swimming,2018,50m Breaststroke,Women,20180724,Katie Goodburn,Great Britain,Great Britain,32.91,32910,Elite
+13860,Swimming,2018,50m Breaststroke,Women,20180405,Bethan Sloan,Wales,Great Britain,32.91,32910,Elite
+13865,Swimming,2018,50m Breaststroke,Women,20180724,Ashley Ransome,Great Britain,Great Britain,32.94,32940,Elite
+13877,Swimming,2018,50m Breaststroke,Women,20180328,Jasmin Smith,Great Britain,Great Britain,32.96,32960,Elite
+13879,Swimming,2018,50m Breaststroke,Women,20180506,Stella Cookson,Great Britain,Great Britain,32.97,32970,Elite
+13915,Swimming,2018,50m Breaststroke,Women,20180724,Morgan Penney,Great Britain,Great Britain,33.07,33070,Elite
+13918,Swimming,2018,50m Breaststroke,Women,20180724,Tabitha Monkhouse,Great Britain,Great Britain,33.07,33070,Elite
+13939,Swimming,2018,50m Breaststroke,Women,20180724,Cira Fletcher,Great Britain,Great Britain,33.12,33120,Elite
+13950,Swimming,2018,50m Breaststroke,Women,20180324,Danielle Gilbert,Great Britain,Great Britain,33.15,33150,Elite
+13970,Swimming,2018,50m Breaststroke,Women,20180324,Maia Hall,Great Britain,Great Britain,33.20,33200,Elite
+13989,Swimming,2018,50m Breaststroke,Women,20180506,Lily Booker,Great Britain,Great Britain,33.25,33250,Elite
+13990,Swimming,2018,50m Breaststroke,Women,20180724,Jessica Gillatt,Great Britain,Great Britain,33.25,33250,Elite
+13995,Swimming,2018,50m Butterfly,Men,20180807,Benjamin Proud,England,Great Britain,22.78,22780,Elite
+14108,Swimming,2018,50m Butterfly,Men,20180806,Jacob Peters,England,Great Britain,23.95,23950,Elite
+14126,Swimming,2018,50m Butterfly,Men,20180729,Sam Horrocks,Great Britain,Great Britain,24.04,24040,Elite
+14133,Swimming,2018,50m Butterfly,Men,20180613,James Guy,England,Great Britain,24.05,24050,Elite
+14201,Swimming,2018,50m Butterfly,Men,20180729,Cameron Brooks-Clarke,Great Britain,Great Britain,24.26,24260,Elite
+14215,Swimming,2018,50m Butterfly,Men,20180113,Lewis Fraser,Great Britain,Great Britain,24.30,24300,Elite
+14225,Swimming,2018,50m Butterfly,Men,20180405,Sean Campsie,Scotland,Great Britain,24.32,24320,Elite
+14234,Swimming,2018,50m Butterfly,Men,20180729,Henry Bland,Great Britain,Great Britain,24.34,24340,Elite
+14307,Swimming,2018,50m Butterfly,Men,20180405,Scott Mclay,Scotland,Great Britain,24.49,24490,Elite
+14330,Swimming,2018,50m Butterfly,Men,20180127,Adam Fawl,Great Britain,Great Britain,24.54,24540,Elite
+14352,Swimming,2018,50m Butterfly,Men,20180729,Oliver Maltby,Great Britain,Great Britain,24.58,24580,Elite
+14365,Swimming,2018,50m Butterfly,Men,20180729,Peter Webster,Great Britain,Great Britain,24.60,24600,Elite
+14373,Swimming,2018,50m Butterfly,Men,20180729,Alex Bowen,Great Britain,Great Britain,24.61,24610,Elite
+14436,Swimming,2018,50m Butterfly,Men,20180302,Daniel Savage,Great Britain,Great Britain,24.73,24730,Elite
+14456,Swimming,2018,50m Butterfly,Men,20180405,Miles Munro,Guernsey,Great Britain,24.76,24760,Elite
+14457,Swimming,2018,50m Butterfly,Men,20180302,Lewis Burras,Great Britain,Great Britain,24.77,24770,Elite
+14468,Swimming,2018,50m Butterfly,Men,20180729,Mats Crisp,Great Britain,Great Britain,24.78,24780,Elite
+14534,Swimming,2018,50m Butterfly,Women,20180113,Harriet Jones,Wales,Great Britain,26.63,26630,Elite
+14550,Swimming,2018,50m Butterfly,Women,20180407,Alys Thomas,Wales,Great Britain,26.72,26720,Elite
+14570,Swimming,2018,50m Butterfly,Women,20180725,Emily Barclay,Great Britain,Great Britain,26.83,26830,Elite
+14610,Swimming,2018,50m Butterfly,Women,20180725,Jasmine Mccrea,Great Britain,Great Britain,27.08,27080,Elite
+14612,Swimming,2018,50m Butterfly,Women,20180725,Sophie Yendell,Great Britain,Great Britain,27.09,27090,Elite
+14615,Swimming,2018,50m Butterfly,Women,20180526,Imogen Clark,Great Britain,Great Britain,27.10,27100,Elite
+14624,Swimming,2018,50m Butterfly,Women,20180708,Freya Anderson,England,Great Britain,27.14,27140,Elite
+14636,Swimming,2018,50m Butterfly,Women,20180407,Harriet West,Wales,Great Britain,27.17,27170,Elite
+14638,Swimming,2018,50m Butterfly,Women,20180725,Keanna Macinnes,Scotland,Great Britain,27.17,27170,Elite
+14645,Swimming,2018,50m Butterfly,Women,20180725,Laura Stephens,England,Great Britain,27.19,27190,Elite
+14653,Swimming,2018,50m Butterfly,Women,20180629,Anna Hopkin,England,Great Britain,27.22,27220,Elite
+14656,Swimming,2018,50m Butterfly,Women,20180303,Emily Horne,Great Britain,Great Britain,27.24,27240,Elite
+14658,Swimming,2018,50m Butterfly,Women,20180127,Charlotte Atkinson,Isle of Man,Great Britain,27.24,27240,Elite
+14680,Swimming,2018,50m Butterfly,Women,20180203,Holly Hibbott,England,Great Britain,27.32,27320,Elite
+14681,Swimming,2018,50m Butterfly,Women,20180404,Tain Bruce,Great Britain,Great Britain,27.32,27320,Elite
+14691,Swimming,2018,50m Butterfly,Women,20180725,Yasmin Perry,Great Britain,Great Britain,27.37,27370,Elite
+14695,Swimming,2018,50m Butterfly,Women,20180725,Sophie Freeman,Great Britain,Great Britain,27.39,27390,Elite
+14697,Swimming,2018,50m Butterfly,Women,20180725,Elena Morgan,Great Britain,Great Britain,27.39,27390,Elite
+14762,Swimming,2018,50m Butterfly,Women,20180303,Emily Large,England,Great Britain,27.57,27570,Elite
+14766,Swimming,2018,50m Butterfly,Women,20180725,Elinor Duley,Great Britain,Great Britain,27.58,27580,Elite
+14772,Swimming,2018,50m Butterfly,Women,20180725,Elizabeth Harris,Great Britain,Great Britain,27.61,27610,Elite
+14782,Swimming,2018,50m Butterfly,Women,20180303,Emily Haimes,Great Britain,Great Britain,27.63,27630,Elite
+14794,Swimming,2018,50m Butterfly,Women,20180725,Alicia Wilson,Great Britain,Great Britain,27.67,27670,Elite
+14795,Swimming,2018,50m Butterfly,Women,20180725,Emily Crane,Great Britain,Great Britain,27.67,27670,Elite
+14796,Swimming,2018,50m Butterfly,Women,20180725,Pia Murray,Great Britain,Great Britain,27.67,27670,Elite
+14810,Swimming,2018,50m Butterfly,Women,20180725,Kate Clifton,Great Britain,Great Britain,27.70,27700,Elite
+14812,Swimming,2018,50m Butterfly,Women,20180113,Ciara Schlosshan,Great Britain,Great Britain,27.70,27700,Elite
+14813,Swimming,2018,50m Butterfly,Women,20180725,Betsy Wizard,Great Britain,Great Britain,27.70,27700,Elite
+14873,Swimming,2018,50m Butterfly,Women,20180526,Jessica Calderbank,Great Britain,Great Britain,27.84,27840,Elite
+14904,Swimming,2018,50m Butterfly,Women,20180725,Maisie Elliott,Great Britain,Great Britain,27.88,27880,Elite
+14923,Swimming,2018,50m Butterfly,Women,20180725,Rebecca De Torres,Great Britain,Great Britain,27.93,27930,Elite
+14928,Swimming,2018,50m Butterfly,Women,20180725,Gaia Alcaras,Great Britain,Great Britain,27.94,27940,Elite
+14935,Swimming,2018,50m Butterfly,Women,20180725,Ciara Standing,Great Britain,Great Britain,27.95,27950,Elite
+14960,Swimming,2018,50m Butterfly,Women,20180725,Rosie Morgan,Great Britain,Great Britain,27.99,27990,Elite
+14974,Swimming,2018,50m Freestyle,Men,20180808,Benjamin Proud,England,Great Britain,21.11,21110,Elite
+14998,Swimming,2018,50m Freestyle,Men,20180410,David Cumberlidge,England,Great Britain,22.00,22000,Elite
+15009,Swimming,2018,50m Freestyle,Men,20180409,Thomas Fannon,England,Great Britain,22.09,22090,Elite
+15045,Swimming,2018,50m Freestyle,Men,20180408,Alex Bowen,Great Britain,Great Britain,22.35,22350,Elite
+15067,Swimming,2018,50m Freestyle,Men,20180728,Jack Thorpe,Great Britain,Great Britain,22.45,22450,Elite
+15087,Swimming,2018,50m Freestyle,Men,20180409,Scott Mclay,Scotland,Great Britain,22.55,22550,Elite
+15129,Swimming,2018,50m Freestyle,Men,20180708,Lewis Burras,Great Britain,Great Britain,22.69,22690,Elite
+15182,Swimming,2018,50m Freestyle,Men,20180408,Samuel Irvine,Great Britain,Great Britain,22.80,22800,Elite
+15214,Swimming,2018,50m Freestyle,Men,20180708,Alex Wray,Great Britain,Great Britain,22.85,22850,Elite
+15253,Swimming,2018,50m Freestyle,Men,20180728,Joe Page,United Arab Emirates,Great Britain,22.93,22930,Elite
+15259,Swimming,2018,50m Freestyle,Men,20180409,Miles Munro,Guernsey,Great Britain,22.94,22940,Elite
+15272,Swimming,2018,50m Freestyle,Men,20180409,Kieran McGuckin,Scotland,Great Britain,22.96,22960,Elite
+15366,Swimming,2018,50m Freestyle,Men,20180728,Robert Cowley,Great Britain,Great Britain,23.11,23110,Elite
+15390,Swimming,2018,50m Freestyle,Men,20180408,James Oxborrow,Great Britain,Great Britain,23.14,23140,Elite
+15408,Swimming,2018,50m Freestyle,Men,20180324,Stephenson Lewis Clifford,Great Britain,Great Britain,23.17,23170,Elite
+15409,Swimming,2018,50m Freestyle,Men,20180728,Dan Jones,Great Britain,Great Britain,23.17,23170,Elite
+15419,Swimming,2018,50m Freestyle,Men,20180715,Yusuke Legard,Great Britain,Great Britain,23.18,23180,Elite
+15490,Swimming,2018,50m Freestyle,Women,20181129,Anna Hopkin,England,Great Britain,24.93,24930,Elite
+15494,Swimming,2018,50m Freestyle,Women,20180726,Emily Barclay,Great Britain,Great Britain,24.94,24940,Elite
+15547,Swimming,2018,50m Freestyle,Women,20180707,Freya Anderson,England,Great Britain,25.35,25350,Elite
+15618,Swimming,2018,50m Freestyle,Women,20180407,Katie Stark,Great Britain,Great Britain,25.65,25650,Elite
+15632,Swimming,2018,50m Freestyle,Women,20180302,Lucy Hope,Great Britain,Great Britain,25.69,25690,Elite
+15675,Swimming,2018,50m Freestyle,Women,20180407,Emily Crane,Great Britain,Great Britain,25.82,25820,Elite
+15692,Swimming,2018,50m Freestyle,Women,20180726,Alicia Wilson,Great Britain,Great Britain,25.84,25840,Elite
+15693,Swimming,2018,50m Freestyle,Women,20180726,Sophie Yendell,Great Britain,Great Britain,25.85,25850,Elite
+15694,Swimming,2018,50m Freestyle,Women,20180302,Katie Latham,Great Britain,Great Britain,25.85,25850,Elite
+15724,Swimming,2018,50m Freestyle,Women,20180407,Tain Bruce,Great Britain,Great Britain,25.92,25920,Elite
+15731,Swimming,2018,50m Freestyle,Women,20180719,Freya Rayner,Great Britain,Great Britain,25.94,25940,Elite
+15735,Swimming,2018,50m Freestyle,Women,20180726,Zoe Bozzard-Hill,Great Britain,Great Britain,25.94,25940,Elite
+15736,Swimming,2018,50m Freestyle,Women,20180726,Jasmine Mccrea,Great Britain,Great Britain,25.94,25940,Elite
+15744,Swimming,2018,50m Freestyle,Women,20180726,Kate Clifton,Great Britain,Great Britain,25.96,25960,Elite
+15761,Swimming,2018,50m Freestyle,Women,20180406,Jessica Jackson,England,Great Britain,26.01,26010,Elite
+15802,Swimming,2018,50m Freestyle,Women,20180609,Rachel-Louise Masson,Scotland,Great Britain,26.07,26070,Elite
+15810,Swimming,2018,50m Freestyle,Women,20180726,Laura Mcnab,Great Britain,Great Britain,26.09,26090,Elite
+15873,Swimming,2018,50m Freestyle,Women,20180726,Sophie Smith,Great Britain,Great Britain,26.20,26200,Elite
+15900,Swimming,2018,50m Freestyle,Women,20180726,Macy Lawrence,Great Britain,Great Britain,26.25,26250,Elite
+15909,Swimming,2018,50m Freestyle,Women,20180726,Tamryn Van Selm,Great Britain,Great Britain,26.27,26270,Elite
+15942,Swimming,2018,50m Freestyle,Women,20180726,Anna Maine,England,Great Britain,26.34,26340,Elite
+15951,Swimming,2018,50m Freestyle,Women,20180726,Elena Dewhurst,Great Britain,Great Britain,26.35,26350,Elite
+15954,Swimming,2018,50m Freestyle,Women,20180726,Hannah Burvill,Great Britain,Great Britain,26.36,26360,Elite
+16006,Swimming,2018,800m Freestyle,Men,20180303,Jay Lelliott,England,Great Britain,7:57.31,477310,Elite
+16012,Swimming,2018,800m Freestyle,Men,20180807,Tom Derbyshire,Great Britain,Great Britain,7:58.26,478260,Elite
+16041,Swimming,2018,800m Freestyle,Men,20180301,Daniel Jervis,Wales,Great Britain,8:01.56,481560,Elite
+16078,Swimming,2018,800m Freestyle,Men,20180707,Nathan Hughes,Great Britain,Great Britain,8:05.15,485150,Elite
+16112,Swimming,2018,800m Freestyle,Men,20180728,Luke Turley,Great Britain,Great Britain,8:07.61,487610,Elite
+16129,Swimming,2018,800m Freestyle,Men,20180303,Stephen Milne,Scotland,Great Britain,8:08.67,488670,Elite
+16136,Swimming,2018,800m Freestyle,Men,20180728,Samuel Budd,Great Britain,Great Britain,8:08.97,488970,Elite
+16138,Swimming,2018,800m Freestyle,Men,20180728,Jakob Goodman,Great Britain,Great Britain,8:09.00,489000,Elite
+16171,Swimming,2018,800m Freestyle,Men,20180728,William Bell,Great Britain,Great Britain,8:10.76,490760,Elite
+16215,Swimming,2018,800m Freestyle,Men,20181128,Gordon Mason,Great Britain,Great Britain,8:12.87,492870,Elite
+16266,Swimming,2018,800m Freestyle,Men,20180728,Samuel Osborne,Great Britain,Great Britain,8:15.33,495330,Elite
+16297,Swimming,2018,800m Freestyle,Men,20180408,William Ryley,Great Britain,Great Britain,8:17.00,497000,Elite
+16357,Swimming,2018,800m Freestyle,Men,20180728,Nathan Wells,Great Britain,Great Britain,8:19.66,499660,Elite
+16365,Swimming,2018,800m Freestyle,Men,20180728,Charlie Poole,Great Britain,Great Britain,8:20.12,500120,Elite
+16371,Swimming,2018,800m Freestyle,Men,20180813,Giuseppe Bogani,Great Britain,Great Britain,8:20.29,500290,Elite
+16379,Swimming,2018,800m Freestyle,Men,20180728,Ryan Reader,Great Britain,Great Britain,8:20.54,500540,Elite
+16395,Swimming,2018,800m Freestyle,Men,20180728,Hector Pardoe,Great Britain,Great Britain,8:21.17,501170,Elite
+16401,Swimming,2018,800m Freestyle,Men,20180728,George Barber,Great Britain,Great Britain,8:21.56,501560,Elite
+16411,Swimming,2018,800m Freestyle,Men,20180303,Max Murphy,Great Britain,Great Britain,8:22.19,502190,Elite
+16417,Swimming,2018,800m Freestyle,Men,20180728,Jamie Scholes,Great Britain,Great Britain,8:22.45,502450,Elite
+16435,Swimming,2018,800m Freestyle,Men,20180728,Myles Robinson-Young,Great Britain,Great Britain,8:23.31,503310,Elite
+16472,Swimming,2018,800m Freestyle,Women,20180409,Holly Hibbott,England,Great Britain,8:29.05,509050,Elite
+16484,Swimming,2018,800m Freestyle,Women,20180409,Camilla Hattersley,Scotland,Great Britain,8:32.65,512650,Elite
+16506,Swimming,2018,800m Freestyle,Women,20180408,Jazmin Carlin,Wales,Great Britain,8:36.52,516520,Elite
+16524,Swimming,2018,800m Freestyle,Women,20180725,Polly Holden,Great Britain,Great Britain,8:38.73,518730,Elite
+16534,Swimming,2018,800m Freestyle,Women,20180408,Alice Dearing,England,Great Britain,8:40.63,520630,Elite
+16567,Swimming,2018,800m Freestyle,Women,20180408,Ellena Jones,Wales,Great Britain,8:43.89,523890,Elite
+16635,Swimming,2018,800m Freestyle,Women,20180408,Emily Clarke,Great Britain,Great Britain,8:48.42,528420,Elite
+16641,Swimming,2018,800m Freestyle,Women,20180704,Leah Crisp,Great Britain,Great Britain,8:48.83,528830,Elite
+16642,Swimming,2018,800m Freestyle,Women,20180725,Maisie Mccartney,Great Britain,Great Britain,8:48.86,528860,Elite
+16689,Swimming,2018,800m Freestyle,Women,20180725,Georgia Darwent,Great Britain,Great Britain,8:51.12,531120,Elite
+16695,Swimming,2018,800m Freestyle,Women,20180725,Alisha Hawkins,Great Britain,Great Britain,8:51.44,531440,Elite
+16737,Swimming,2018,800m Freestyle,Women,20180323,Madeleine Crompton,Great Britain,Great Britain,8:53.48,533480,Elite
+16757,Swimming,2018,800m Freestyle,Women,20180731,Elizabeth Boeckman,Great Britain,Great Britain,8:54.42,534420,Elite
+16765,Swimming,2018,800m Freestyle,Women,20180725,Lola Davison,Great Britain,Great Britain,8:54.69,534690,Elite
+16774,Swimming,2018,800m Freestyle,Women,20180614,Meg Finnon,Great Britain,Great Britain,8:54.93,534930,Elite
+16780,Swimming,2018,800m Freestyle,Women,20180725,Nicole Ryan,Great Britain,Great Britain,8:55.16,535160,Elite
+16797,Swimming,2018,800m Freestyle,Women,20180725,Mollie Wright,Great Britain,Great Britain,8:56.14,536140,Elite
+16807,Swimming,2018,800m Freestyle,Women,20180725,Rachel Anderson,Great Britain,Great Britain,8:56.71,536710,Elite
+16833,Swimming,2018,800m Freestyle,Women,20180725,Emilia Sansome,Great Britain,Great Britain,8:57.79,537790,Elite
+16843,Swimming,2018,800m Freestyle,Women,20180426,Philippa O'Brien,Great Britain,Great Britain,8:58.13,538130,Elite
+16857,Swimming,2018,800m Freestyle,Women,20180507,Michaella Glenister,Great Britain,Great Britain,8:58.75,538750,Elite
+16873,Swimming,2018,800m Freestyle,Women,20180725,Freya Colbert,Great Britain,Great Britain,8:59.58,539580,Elite
+16903,Swimming,2018,800m Freestyle,Women,20180302,Aisha Thornton,Great Britain,Great Britain,9:00.89,540890,Elite
+16918,Swimming,2018,800m Freestyle,Women,20180323,Fleur Lewis,Great Britain,Great Britain,9:01.59,541590,Elite
+16930,Swimming,2018,800m Freestyle,Women,20180507,Betsy Wizard,Great Britain,Great Britain,9:01.90,541900,Elite
+16938,Swimming,2018,800m Freestyle,Women,20180331,Iona Macleod,Great Britain,Great Britain,9:02.12,542120,Elite
